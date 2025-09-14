@@ -33,12 +33,14 @@ I'm a freshman majoring in Computer Science, deeply fascinated by how code can b
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>
 </p>
 
@@ -46,11 +48,9 @@ I'm a freshman majoring in Computer Science, deeply fascinated by how code can b
 
 ### 📊 My GitHub Stats & Activity
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nine19een&show_icons=true&locale=en&theme=dracula&count_private=true" alt="nine19een的GitHub统计" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nine19een&layout=compact&locale=en&theme=dracula" alt="nine19een的热门语言" />
-</p>
 
 ---
 
