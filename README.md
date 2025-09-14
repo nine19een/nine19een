@@ -60,7 +60,7 @@ Welcome to the heart of my GitHub! This is where I document my daily progress in
 
 | Date       | Problem                                                    | Difficulty                                                                                                   | Solution                                                                                  |
 | :--------- | :--------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
-| 2025-09-14 | [洛谷-P11044-食堂]([https://leetcode.com/problems/two-sum/](https://www.luogu.com.cn/problem/P11044))       | <img src="https://img.shields.io/badge/Medium-FB8C00?style=for-the-badge" alt="Medium"> | [View Code (C++)]([在这里粘贴你刚才复制的代码文件链接](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P11044.cpp)) |
+| 2025-09-14 | [洛谷-P11044-食堂]([https://leetcode.com/problems/two-sum/](https://www.luogu.com.cn/problem/P11044))       | <img src="https://img.shields.io/badge/Medium-FB8C00?style=for-the-badge" alt="Medium"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P11044.cpp) |
 <!-- 
   ⬇️ 这是新题目的模板行，把它复制到表格的 |:---| 下方来添加新题目 ⬇️
 
