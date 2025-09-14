@@ -60,14 +60,18 @@ Welcome to the heart of my GitHub! This is where I document my daily progress in
 
 | Date       | Problem                                                    | Difficulty                                                                                                   | Solution                                                                                  |
 | :--------- | :--------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
-| 2025-09-14 | [洛谷-P11044-食堂]([https://leetcode.com/problems/two-sum/](https://www.luogu.com.cn/problem/P11044))       | <img src="https://img.shields.io/badge/Medium-FB8C00?style=for-the-badge" alt="Medium"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P11044.cpp) |
+| 2025-09-14 | [洛谷-P11044-食堂](https://www.luogu.com.cn/problem/P11044)       | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P11044.cpp) |
 <!-- 
   ⬇️ 这是新题目的模板行，把它复制到表格的 |:---| 下方来添加新题目 ⬇️
 
 | YYYY-MM-DD | [题目编号. 题目名称](题目链接)       | <img src="https://img.shields.io/badge/难度-颜色?style=for-the-badge" alt="难度"> | [View Code (语言)](代码文件链接) |
 
   难度徽章选择:
-  Easy:   <img src="https://img.shields.io/badge/Easy-43A047?style=for-the-badge" alt="Easy">
-  Medium: <img src="https://img.shields.io/badge/Medium-FB8C00?style=for-the-badge" alt="Medium">
-  Hard:   <img src="https://img.shields.io/badge/Hard-E53935?style=for-the-badge" alt="Hard">
+  <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge" alt="入门">
+  <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge" alt="普及−">
+  <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−">
+  <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">
+  <img src="https://img.shields.io/badge/提高%2B%2F省选−-3498DB?style=for-the-badge" alt="提高+/省选−">
+  <img src="https://img.shields.io/badge/省选%2FNOI−-9D3DCF?style=for-the-badge" alt="省选/NOI−">
+  <img src="https://img.shields.io/badge/NOI%2FNOI%2B%2FCTSC-0E1D69?style=for-the-badge" alt="NOI/NOI+/CTSC">
 -->
