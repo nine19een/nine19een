@@ -61,6 +61,7 @@ Welcome to the heart of my GitHub! This is where I document my daily progress in
 | Date       | Problem                                                    | Difficulty                                                                                                   | Solution                                                                                  |
 | :--------- | :--------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
 | 2025-09-14 | [洛谷-P11044-食堂](https://www.luogu.com.cn/problem/P11044)       | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P11044.cpp) |
+| 2025-09-14 | [洛谷-P8683-后缀表达式](https://www.luogu.com.cn/problem/P8683)       | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P8683.cpp) |
 <!-- 
   ⬇️ 这是新题目的模板行，把它复制到表格的 |:---| 下方来添加新题目 ⬇️
 
