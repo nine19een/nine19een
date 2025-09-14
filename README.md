@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a freshman majoring in Computer Science, deeply fascinated by how code can be structured to solve real-world problems. My goal is to become a proficient software engineer. This GitHub profile is my digital journal, tracking my growth one commit at a time.
+I'm a freshman majoring in Computer Science, deeply fascinated by how code can be structured to solve real-world problems. My goal is to become a proficient algorithm engineer. This GitHub profile is my digital journal, tracking my growth one commit at a time.
 
 - 🌱 I’m currently diving deep into **Data Structures and Algorithms**.
 - 🔭 I’m exploring the worlds of **C++ and Competitive Programming**.
