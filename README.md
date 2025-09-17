@@ -84,3 +84,24 @@ Welcome to the heart of my GitHub! This is where I document my daily progress in
   <img src="https://img.shields.io/badge/省选%2FNOI−-9D3DCF?style=for-the-badge" alt="省选/NOI−">
   <img src="https://img.shields.io/badge/NOI%2FNOI%2B%2FCTSC-0E1D69?style=for-the-badge" alt="NOI/NOI+/CTSC">
 -->
+
+---
+
+### 🏆 My Contest History
+Here is a log of my performance in online programming contests.
+
+#### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeforces/codeforces-original.svg" alt="Codeforces Logo" width="25" height="25"> Codeforces
+
+| Date       | Contest                                                              | Rank      | Performance (New Rating & Δ)                                                               | My Results Link                               |
+| :--------- | :------------------------------------------------------------------- | :-------- | :----------------------------------------------------------------------------------------- | :-------------------------------------------- |
+| 2025-09-17 | [Codeforces Round 1051 (Div. 2)](https://codeforces.com/contest/2143) | 8909/xxxx | <b>1585</b> <img src="https://img.shields.io/badge/%2B428-43A047?style=flat-square"> | [View Submissions](https://codeforces.com/contest/2143/my) |
+
+<!-- 
+  ⬇️ 这是新比赛的模板行，把它复制到表格的 |:---| 下方来添加新记录 ⬇️
+
+| YYYY-MM-DD | [比赛全名](比赛链接) | 你的排名 | <b>新Rating</b> 徽章 | [View Submissions](你的结果链接) |
+
+  Rating 变化徽章模板 (把数字和颜色换掉):
+  - Rating 上升: <img src="https://img.shields.io/badge/%2B数字-43A047?style=flat-square">
+  - Rating 下降: <img src="https://img.shields.io/badge/--数字-E53935?style=flat-square">
+-->
