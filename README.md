@@ -94,7 +94,7 @@ Here is a log of my performance in online programming contests.
 
 | Date       | Contest                                                              | Rank      | Performance (New Rating & Δ)                                                               | My Results Link                               |
 | :--------- | :------------------------------------------------------------------- | :-------- | :----------------------------------------------------------------------------------------- | :-------------------------------------------- |
-| 2025-09-17 | [Codeforces Round 1051 (Div. 2)](https://codeforces.com/contest/2143) | 8909/xxxx | <b>1585</b> <img src="https://img.shields.io/badge/%2B428-43A047?style=flat-square"> | [View Submissions](https://codeforces.com/contest/2143/my) |
+| 2025-09-17 | [Codeforces Round 1051 (Div. 2)](https://codeforces.com/contest/2143) | 8909/xxxx | <b>428</b> <img src="https://img.shields.io/badge/%2B428-43A047?style=flat-square"> | [View Submissions](https://codeforces.com/contest/2143/my) |
 
 <!-- 
   ⬇️ 这是新比赛的模板行，把它复制到表格的 |:---| 下方来添加新记录 ⬇️
