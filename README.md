@@ -91,7 +91,7 @@ Welcome to the heart of my GitHub! This is where I document my daily progress in
 Here is a log of my performance in online programming contests.
 
 | Date       | Contest                                                              | Rank      | Performance (New Rating & Δ)                                                               | My Results Link                               |
-| :--------------------- | :------------------------------------------------------------------- | :-------- | :----------------------------- | :-------------------------------------------- |
+| :--------- | :------------------------------------------------------------------- | :-------- | :----------------------------------------------------------------------------------------- | :-------------------------------------------- |
 | 2025-09-17 | [Codeforces Round 1051 (Div. 2)](https://codeforces.com/contest/2143) | 8909/14659 | <b>428</b> <img src="https://img.shields.io/badge/%2B428-43A047?style=flat-square"> | [View Submissions](https://codeforces.com/contest/2143/my) |
 
 <!-- 
