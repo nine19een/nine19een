@@ -70,6 +70,8 @@ Welcome to the heart of my GitHub! This is where I document my daily progress in
 | 2025-09-15 | [洛谷-P5743-猴子吃桃](https://www.luogu.com.cn/problem/P5743)      | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge" alt="入门"> | [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P5743-C.cpp) |
 | 2025-09-14 | [洛谷-P11044-食堂](https://www.luogu.com.cn/problem/P11044)       | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P11044-C++.cpp) |
 | 2025-09-14 | [洛谷-P8683-后缀表达式](https://www.luogu.com.cn/problem/P8683)       | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P8683-C++.cpp) |
+| 2025-07-02 | [洛谷-P1046-陶陶摘苹果](https://www.luogu.com.cn/problem/P1046)       | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge" alt="入门"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1046-C%2B%2B.cpp) |
+| 2025-07-02 | [洛谷-P1001-A+B Problem](https://www.luogu.com.cn/problem/P1001)       | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge" alt="入门"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1001-C%2B%2B.cpp) |
 
 <!-- 
   ⬇️ 这是新题目的模板行，把它复制到表格的 |:---| 下方来添加新题目 ⬇️
