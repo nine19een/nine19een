@@ -89,9 +89,8 @@ Here is a log of my performance in online programming contests.
 
 ### 🚀 My Coding Practice Log
 
-Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
+Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.<img src="https://img.shields.io/badge/Total%20Solved-143-282A36?style=for-the-badge&logoColor=white">
 
- <img src="https://img.shields.io/badge/Total-143-blue?style=for-the-badge&logo=LeetCode" alt="Total Solved">
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
 | 2025-09-18 | [Codeforces-1051-C. Max Tree](https://codeforces.com/contest/2143/problem/C) | <img src="https://img.shields.io/badge/Div.2%20C-03A89E?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1051-C-C++.cpp) |
