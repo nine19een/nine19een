@@ -227,6 +227,8 @@ Here is a log of my performance in online programming contests.
 | Date       | Contest                                                              | Type | TL   | Solved    | Rank       | Performance (New Rating & Δ)                                                               | Results                                                    |
 | :--------- | :------------------------------------------------------------------- | :--- | :--- | :-------- | :--------- | :----------------------------------------------------------------------------------------- | :--------------------------------------------------------- |
 | 2025-09-17 | [Codeforces Round #1051 (Div. 2)](https://codeforces.com/contest/2143) | Live | 2h   | 3/6       | 8909/14659 | <b>428</b> <img src="https://img.shields.io/badge/%2B428-43A047?style=flat-square" alt="+428"> | [View Submissions](https://codeforces.com/contest/2143/my) |
+| 2025-08-08 | [Codeforces Round #1017 (Div. 4)](https://codeforces.com/contest/2065) | VP | 2h10min   | 3/8      | --- | --- | [View Submissions](https://codeforces.com/contest/2065/my) |
+| 2025-07-24 | [Codeforces Round #1003 (Div. 4)](https://codeforces.com/contest/2094) | VP | 2h30min   | 2/9      | --- | --- | [View Submissions](https://codeforces.com/contest/2094/my) |
 
 <!-- 
   ⬇️ 这是新比赛的模板行，把它复制到表格的 |:---| 下方来添加新记录 ⬇️
