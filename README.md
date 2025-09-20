@@ -87,9 +87,9 @@ Here is a log of my performance in online programming contests.
   - Rating 下降: <img src="https://img.shields.io/badge/--数字-E53935?style=flat-square">
 -->
 
-### 🚀 My Coding Practice Log
+### 🚀 My Coding Practice Log<img src="https://img.shields.io/badge/Total-143-blue?style=for-the-badge">
 
-Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.<img src="https://img.shields.io/badge/Total%20Solved-143-282A36?style=for-the-badge&logoColor=white">
+Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
