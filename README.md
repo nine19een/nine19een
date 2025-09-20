@@ -61,11 +61,31 @@ I'm a freshman majoring in Computer Science, deeply fascinated by how code can b
 
 ### 📊 My GitHub Stats & Activity
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nine19een&show_icons=true&locale=en&theme=dracula&count_private=true" alt="nine19een的GitHub统计" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nine19een&layout=compact&locale=en&theme=dracula" alt="nine19een的热门语言" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nine19een&show_icons=true&locale=en&theme=dracula&count_private=true&include_all_commits=true" alt="nine19een's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nine19een&layout=compact&locale=en&theme=dracula&langs_count=10&hide=html,css" alt="nine19een's Top Languages" />
 
 ---
+
+### 🏆 My Contest History
+Here is a log of my performance in online programming contests.
+
+| Date       | Contest                                                              | Type | TL        | Solved    | Rank       | Performance (New Rating & Δ)                                                               | Results                                                    |
+| :--------: | :------------------------------------------------------------------: | :--: | :-------: | :--------: | :---------: | :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------- |
+| 2025-09-17 | [Codeforces Round #1051 (Div. 2)](https://codeforces.com/contest/2143) | Live | 2h        | 2/6       | 8909/14659 | <b>428</b> <img src="https://img.shields.io/badge/%2B428-43A047?style=flat-square" alt="+428"> | [View Submissions](https://codeforces.com/contest/2143/my) |
+| 2025-08-08 | [Codeforces Round #1017 (Div. 4)](https://codeforces.com/contest/2094) | VP   | 2h 10min  | 3/8       | ---        | ---                                                                                        | [View Submissions](https://codeforces.com/contest/2094/my) |
+| 2025-07-24 | [Codeforces Round #1003 (Div. 4)](https://codeforces.com/contest/2065) | VP   | 2h 30min  | 2/8       | ---        | ---                                                                                        | [View Submissions](https://codeforces.com/contest/2065/my) |
+
+---
+
+<!-- 
+  ⬇️ 这是新比赛的模板行，把它复制到表格的 |:---| 下方来添加新记录 ⬇️
+
+| YYYY-MM-DD | [比赛全名](比赛链接) |时间限制| 你的排名 | <b>新Rating</b> 徽章 | [View Submissions](你的结果链接) |
+
+  Rating 变化徽章模板 (把数字和颜色换掉):
+  - Rating 上升: <img src="https://img.shields.io/badge/%2B数字-43A047?style=flat-square">
+  - Rating 下降: <img src="https://img.shields.io/badge/--数字-E53935?style=flat-square">
+-->
 
 ### 🚀 My Coding Practice Log
 
@@ -230,25 +250,4 @@ Welcome to the heart of my GitHub! This is where I document my daily progress in
   <img src="https://img.shields.io/badge/提高%2B%2F省选−-3498DB?style=for-the-badge" alt="提高+/省选−">
   <img src="https://img.shields.io/badge/省选%2FNOI−-9D3DCF?style=for-the-badge" alt="省选/NOI−">
   <img src="https://img.shields.io/badge/NOI%2FNOI%2B%2FCTSC-0E1D69?style=for-the-badge" alt="NOI/NOI+/CTSC">
--->
-
----
-
-### 🏆 My Contest History
-Here is a log of my performance in online programming contests.
-
-| Date       | Contest                                                              | Type | TL        | Solved    | Rank       | Performance (New Rating & Δ)                                                               | Results                                                    |
-| :--------: | :------------------------------------------------------------------: | :--: | :-------: | :--------: | :---------: | :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------- |
-| 2025-09-17 | [Codeforces Round #1051 (Div. 2)](https://codeforces.com/contest/2143) | Live | 2h        | 2/6       | 8909/14659 | <b>428</b> <img src="https://img.shields.io/badge/%2B428-43A047?style=flat-square" alt="+428"> | [View Submissions](https://codeforces.com/contest/2143/my) |
-| 2025-08-08 | [Codeforces Round #1017 (Div. 4)](https://codeforces.com/contest/2094) | VP   | 2h 10min  | 3/8       | ---        | ---                                                                                        | [View Submissions](https://codeforces.com/contest/2094/my) |
-| 2025-07-24 | [Codeforces Round #1003 (Div. 4)](https://codeforces.com/contest/2065) | VP   | 2h 30min  | 2/8       | ---        | ---                                                                                        | [View Submissions](https://codeforces.com/contest/2065/my) |
-
-<!-- 
-  ⬇️ 这是新比赛的模板行，把它复制到表格的 |:---| 下方来添加新记录 ⬇️
-
-| YYYY-MM-DD | [比赛全名](比赛链接) |时间限制| 你的排名 | <b>新Rating</b> 徽章 | [View Submissions](你的结果链接) |
-
-  Rating 变化徽章模板 (把数字和颜色换掉):
-  - Rating 上升: <img src="https://img.shields.io/badge/%2B数字-43A047?style=flat-square">
-  - Rating 下降: <img src="https://img.shields.io/badge/--数字-E53935?style=flat-square">
 -->
