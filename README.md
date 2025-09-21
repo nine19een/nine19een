@@ -106,10 +106,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-143-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-144-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-09-21 | [洛谷-P10387-训练士兵](https://www.luogu.com.cn/problem/P10387)                 | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P10387-C++.cpp) |
 | 2025-09-18 | [Codeforces-1051-C. Max Tree](https://codeforces.com/contest/2143/problem/C) | <img src="https://img.shields.io/badge/Div.2%20C-03A89E?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1051-C-C++.cpp) |
 | 2025-09-17 | [Codeforces-1051-B. Discounts](https://codeforces.com/contest/2143/problem/B) | <img src="https://img.shields.io/badge/Div.2%20B-008000?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1051-B-C++.cpp) |
 | 2025-09-17 | [Codeforces-1051-A. All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) | <img src="https://img.shields.io/badge/Div.2%20A-008000?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1051-A-C++.cpp) |
