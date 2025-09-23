@@ -96,7 +96,6 @@ Here is a log of my performance in online programming contests.
   ⬇️ 这是新比赛的模板行，把它复制到表格的 |:---| 下方来添加新记录 ⬇️
 
 | YYYY-MM-DD | [比赛全名](比赛链接) |时间限制| 你的排名 | <b>新Rating</b> 徽章 | [View Submissions](你的结果链接) |
-
   Rating 变化徽章模板 (把数字和颜色换掉):
   - Rating 上升: <img src="https://img.shields.io/badge/%2B数字-43A047?style=flat-square">
   - Rating 下降: <img src="https://img.shields.io/badge/--数字-E53935?style=flat-square">
