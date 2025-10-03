@@ -32,6 +32,18 @@ I'm a freshman majoring in Computer Science, deeply fascinated by how code can b
 
 ---
 
+### 📝 My Blog
+
+I write about my journey in programming, sharing in-depth analysis of problems I've solved and technologies I've explored. Welcome to my digital garden!
+
+<p align="left">
+  <a href="https://nine19een.com" target="_blank">
+    <img src="https://img.shields.io/badge/Personal%20Blog-nine19een.com-43A047?style=for-the-badge&logo=rss&logoColor=white" alt="My Blog"/>
+  </a>
+</p>
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="left"> 
