@@ -107,10 +107,13 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-147-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-150-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-10-03 | [Codeforces-1054-C. MEX rose](https://codeforces.com/contest/2149/problem/C) | <img src="https://img.shields.io/badge/Div.3%20C-008000?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1054-C-C%2B%2B.cpp) |
+| 2025-10-03 | [Codeforces-1054-B. Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | <img src="https://img.shields.io/badge/Div.3%20B-008000?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1054-B-C%2B%2B.cpp) |
+| 2025-10-03 | [Codeforces-1054-A. Be Positive](https://codeforces.com/contest/2149/problem/A) | <img src="https://img.shields.io/badge/Div.3%20A-008000?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1054-A-C%2B%2B.cpp) |
 | 2025-10-02 | [洛谷-P1012-拼数](https://www.luogu.com.cn/problem/P1012)                 | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1012-C%2B%2B.cpp) |
 | 2025-09-30 | [洛谷-P8613-小朋友排队](https://www.luogu.com.cn/problem/P8613)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P8613-C%2B%2B.cpp) |
 | 2025-09-25 | [洛谷-P10386-五子棋对弈](https://www.luogu.com.cn/problem/P10386)                 | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P10386-C++.cpp) |
@@ -272,4 +275,8 @@ Welcome to the heart of my GitHub! This is where I document my daily progress in
   <img src="https://img.shields.io/badge/提高%2B%2F省选−-3498DB?style=for-the-badge" alt="提高+/省选−">
   <img src="https://img.shields.io/badge/省选%2FNOI−-9D3DCF?style=for-the-badge" alt="省选/NOI−">
   <img src="https://img.shields.io/badge/NOI%2FNOI%2B%2FCTSC-0E1D69?style=for-the-badge" alt="NOI/NOI+/CTSC">
+  <img src="https://img.shields.io/badge/Div.3%20A-008000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Div.3%20B-008000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Div.3%20C-008000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Div.3%20D-03A89E?style=for-the-badge">
 -->
