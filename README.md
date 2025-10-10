@@ -120,10 +120,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-154-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-155-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-10-11 | [Codeforces-1057-C. Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C) | <img src="https://img.shields.io/badge/Div.2%20C-03A89E?style=for-the-badge">                                 | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1057-C-C++.cpp) |
 | 2025-10-10 | [Codeforces-1057-B. Bitwise Reversion](https://codeforces.com/contest/2153/problem/B) | <img src="https://img.shields.io/badge/Div.2%20B-008000?style=for-the-badge">                                 | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1057-B-C++.cpp) |
 | 2025-10-10 | [Codeforces-1057-A. Circle of Apple Trees](https://codeforces.com/contest/2153/problem/A) | <img src="https://img.shields.io/badge/Div.2%20A-008000?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1057-A-C++.cpp) |
 | 2025-10-06 | [丁香花分形](https://www.nine19een.com/)                | ---             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/LilacFractal-C%2B%2B.cpp)|
