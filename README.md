@@ -119,10 +119,12 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-152-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-154-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-10-10 | [Codeforces-1057-B. Bitwise Reversion](https://codeforces.com/contest/2153/problem/B) | <img src="https://img.shields.io/badge/Div.2%20B-008000?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1057-B-C++.cpp) |
+| 2025-10-10 | [Codeforces-1057-A. Circle of Apple Trees](https://codeforces.com/contest/2153/problem/A) | <img src="https://img.shields.io/badge/Div.2%20A-008000?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1057-A-C++.cpp) |
 | 2025-10-06 | [丁香花分形](https://www.nine19een.com/)                | ---             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/LilacFractal-C%2B%2B.cpp)|
 | 2025-10-05 | [洛谷-P1012-拼数](https://www.luogu.com.cn/problem/P1012)                 | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−">             | [View Code (C++) 手写冒泡排序](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1012(BubbleSort)-C%2B%2B.cpp) / [View Code (C++) 自定义sort比较规则](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1012(Sort)-C%2B%2B.cpp)|
 | 2025-10-05 | [Codeforces-1054-D. A and B](https://codeforces.com/contest/2149/problem/D) | <img src="https://img.shields.io/badge/Div.3%20D-03A89E?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1054-D-C%2B%2B.cpp) |
