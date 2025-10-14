@@ -121,10 +121,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-163-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-164-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-10-14 | [洛谷-P1088-火星人](https://www.luogu.com.cn/problem/P1088) | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">                                 | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1088-C%2B%2B.cpp)|
 | 2025-10-13 | [洛谷-P1706-全排列问题](https://www.luogu.com.cn/problem/P1706) | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">                                 | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1706-C%2B%2B.cpp)|
 | 2025-10-13 | [洛谷-P1162-填涂颜色](https://www.luogu.com.cn/problem/P1162) | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">                                 | [View Code (C++) 由内向外BFS](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1162(From-Inside-To-Outside)-C%2B%2B.cpp) / [View Code (C++) 由外向内BFS](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1162(From-Outside-To-Inside)-C%2B%2B.cpp)|
 | 2025-10-11 | [逆序k倍对](https://www.nine19een.com/2025/10/13/K-InversePairs/) | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">                                 | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/K-InversePairs-C%2B%2B.cpp) |
