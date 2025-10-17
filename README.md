@@ -121,10 +121,12 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-166-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-168-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-10-17 | [Codeforces-1059-B. Beautiful String](https://codeforces.com/contest/2162/problem/B) | <img src="https://img.shields.io/badge/Div.3%20B-008000?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1059-B-C%2B%2B.cpp) |
+| 2025-10-17 | [Codeforces-1059-A. Beautiful Average](https://codeforces.com/contest/2162/problem/A) | <img src="https://img.shields.io/badge/Div.3%20A-008000?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1059-A-C%2B%2B.cpp) |
 | 2025-10-15 | [洛谷-P1025-数的划分](https://www.luogu.com.cn/problem/P1025) | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">                                 | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1025-C%2B%2B.cpp)|
 | 2025-10-14 | [洛谷-P1157-组合的输出](https://www.luogu.com.cn/problem/P1157) | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">                                 | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1157-C%2B%2B.cpp)|
 | 2025-10-14 | [洛谷-P1088-火星人](https://www.luogu.com.cn/problem/P1088) | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">                                 | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1088-C%2B%2B.cpp)|
