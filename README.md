@@ -122,10 +122,12 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-170-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-172-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-10-19 | [洛谷-P1614-爱与愁的心痛](https://www.luogu.com.cn/problem/P1614)               | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1614-C++.cpp) |
+| 2025-10-19 | [洛谷-P1421-小玉买文具](https://www.luogu.com.cn/problem/P1421)               | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1421-C++.cpp) |
 | 2025-10-19 | [Codeforces-1059-C. Beautiful XOR](https://codeforces.com/contest/2162/problem/C) | <img src="https://img.shields.io/badge/Div.3%20C-008000?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1059-C-C%2B%2B.cpp) |
 | 2025-10-18 | [洛谷-P1548-棋盘问题](https://www.luogu.com.cn/problem/P1548)               | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1548-C++.cpp) |
 | 2025-10-18 | [洛谷-P1150-Peter 的烟](https://www.luogu.com.cn/problem/P1150)               | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1150-C++.cpp) |
