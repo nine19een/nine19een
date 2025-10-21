@@ -122,10 +122,12 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-174-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-176-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-10-21 | [洛谷-P1789-插火把](https://www.luogu.com.cn/problem/P1789)               | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1789-C++.cpp) |
+| 2025-10-21 | [洛谷-B2050-三角形判断](https://www.luogu.com.cn/problem/B2050)               | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2050-C++.cpp) |
 | 2025-10-20 | [洛谷-B2043-判断能否被 3，5，7 整除](https://www.luogu.com.cn/problem/B2043)               | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2043-C++.cpp) |
 | 2025-10-20 | [洛谷-P1152-欢乐的跳](https://www.luogu.com.cn/problem/P1152)               | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1152-C++.cpp) |
 | 2025-10-19 | [洛谷-P1614-爱与愁的心痛](https://www.luogu.com.cn/problem/P1614)               | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1614-C++.cpp) |
