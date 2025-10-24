@@ -122,10 +122,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-181-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-182-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-10-24 | [洛谷-P1133-教主的花园](https://www.luogu.com.cn/problem/P1133)               | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1133-C++.cpp)|
 | 2025-10-22 | [洛谷-P4017-最大食物链计数](https://www.luogu.com.cn/problem/P4017)               | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−">             | [View Code (C++) DFS记忆化搜索+DP](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P4017(DFS+dp)-C++.cpp) / [View Code (C++) BFS拓扑排序+DP](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P4017(BFStopo+dp)-C++.cpp)|
 | 2025-10-22 | [洛谷-B3644-拓扑排序 / 家谱树](https://www.luogu.com.cn/problem/B3644)               | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−">             | [View Code (C++) BFS](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B3644(BFS)-C++.cpp) / [View Code (C++) DFS](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B3644(DFS)-C++.cpp)|
 | 2025-10-22 | [洛谷-P3916-图的遍历](https://www.luogu.com.cn/problem/P3916)               | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P3916-C++.cpp) |
