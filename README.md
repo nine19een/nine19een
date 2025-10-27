@@ -122,10 +122,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-186-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-187-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-10-27 | [洛谷-P1983-普及组] 车站分级](https://www.luogu.com.cn/problem/P1983)               | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1983-C++.cpp)|
 | 2025-10-27 | [洛谷-P5719-分类平均](https://www.luogu.com.cn/problem/P5719)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P5719-C.cpp)|
 | 2025-10-27 | [洛谷-P5722-数列求和](https://www.luogu.com.cn/problem/P5722)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P5722-C.cpp)|
 | 2025-10-26 | [洛谷-P1046-陶陶摘苹果](https://www.luogu.com.cn/problem/P1046)               | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1046-C%2B%2B.cpp) / [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1046-C.cpp)|
