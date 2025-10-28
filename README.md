@@ -122,10 +122,13 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-187-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-190-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-10-28 | [洛谷-P1060-开心的金明](https://www.luogu.com.cn/problem/P1060)               | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1060-C++.cpp) |
+| 2025-10-28 | [洛谷-P5724-求极差 / 最大跨度值 / 最大值和最小值的差](https://www.luogu.com.cn/problem/P5724)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P5724-C.cpp)|
+| 2025-10-28 | [洛谷-P4414-ABC](https://www.luogu.com.cn/problem/P4414)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P4414-C.cpp)|
 | 2025-10-27 | [洛谷-P1983-车站分级](https://www.luogu.com.cn/problem/P1983)               | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1983-C++.cpp)|
 | 2025-10-27 | [洛谷-P5719-分类平均](https://www.luogu.com.cn/problem/P5719)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P5719-C.cpp)|
 | 2025-10-27 | [洛谷-P5722-数列求和](https://www.luogu.com.cn/problem/P5722)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P5722-C.cpp)|
