@@ -122,10 +122,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-193-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-194-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-10-30 | [洛谷-B2098-整数去重](https://www.luogu.com.cn/problem/B2098)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2098-C.cpp)|
 | 2025-10-30 | [洛谷-P1216数字三角形 Number Triangles](https://www.luogu.com.cn/problem/P1216)               | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1216-C%2B%2B.cpp) / [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1216-C.cpp) |
 | 2025-10-29 | [洛谷-B4401-机器人走网格](https://www.luogu.com.cn/problem/B4401)               | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B4401-C++.cpp)|
 | 2025-10-29 | [洛谷-B4289-字母组合](https://www.luogu.com.cn/problem/B4289)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B4289-C.cpp)|
