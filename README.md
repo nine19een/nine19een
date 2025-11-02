@@ -122,10 +122,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-197-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-198-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-11-02 | [洛谷-B2110-找第一个只出现一次的字符](https://www.luogu.com.cn/problem/B2110)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2110-C.cpp)|
 | 2025-11-02 | [洛谷-P1115-最大子段和](https://www.luogu.com.cn/problem/P1115)               | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1115-C%2B%2B.cpp) / [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1115-C.cpp) |
 | 2025-11-02 | [洛谷-P1121-环状最大两段子段和](https://www.luogu.com.cn/problem/P1121)           | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1121-C%2B%2B.cpp) |
 | 2025-11-01 | [洛谷-P3156-询问学号](https://www.luogu.com.cn/problem/P3156)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P3156-C.cpp)|
