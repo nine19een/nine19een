@@ -44,18 +44,19 @@ I write about my journey in programming, sharing in-depth analysis of problems I
 
 ---
 
-#### 🚀 **近期分享**
+#### 🆕 **近期分享**
 
 *   **[洛谷-P1121-环状最大两段子段和·复盘——续谈环形DP](https://www.nine19een.com/2025/11/03/Luogu-P1133-CircularTwoSegmentSum/)** `2025-11-03`
-    > 深入剖析了环形DP中的一个经典对偶思想，并详细拆解了一个由“非空”约束引发的隐蔽边界陷阱。
+    > 本文深入剖析了环形DP中的一个经典对偶思想，并详细拆解了一个由“非空”约束引发的隐蔽边界陷阱。
     <br>
-    
-*   **[你的下一篇精彩文章标题](在此处粘贴你的文章链接)** `(YYYY-MM-DD)`
-    > 在这里填写对文章的简短介绍，吸引读者点击。
-    <br>
-    <!-- 在这里添加你的自定义标签 -->
-    ![标签1](https://img.shields.io/badge/-你的标签-COLOR?style=flat-square)
-    ![标签2](https://img.shields.io/badge/-另一个标签-COLOR?style=flat-square)
+
+    > 
+*   **[洛谷-P1133-教主的花园·复盘——从线性DP到环形DP](https://www.nine19een.com/2025/10/24/Luogu-P1133-FlowerGardenDP/)** `2025-10-25`
+    > 本文复盘了经典的环形DP题目「教主的花园」，记录了从错误的线性DP模型到正确的“破环成链”解法的完整思路。
+
+*   **[逆序k倍对·复盘](https://www.nine19een.com/2025/10/12/K-InversePairs/)** `2025-10-13`
+    > 本文复盘了如何运用离散化技巧处理大数值范围，并结合树状数组这一高效数据结构，将问题从O(n²)优化至O(n log n)的解题全过程。
+
 
 
 ➡️ [**查看所有文章...**](https://nine19een.com/archives)
