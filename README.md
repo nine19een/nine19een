@@ -44,6 +44,27 @@ I write about my journey in programming, sharing in-depth analysis of problems I
 
 ---
 
+#### 🚀 **近期分享**
+
+*   **[洛谷-P1121-环状最大两段子段和·复盘——从对偶思想到边界陷阱](在此处粘贴你的文章链接)** `(YYYY-MM-DD)`
+    > 深入剖析了环形DP中的一个经典对偶思想，并详细拆解了一个由“非空”约束引发的隐蔽边界陷阱。
+    <br>
+    ![Algorithm](https://img.shields.io/badge/-Algorithm-0077B6?style=flat-square)
+    ![Dynamic Programming](https://img.shields.io/badge/-Dynamic%20Programming-E76F51?style=flat-square)
+    ![Circular DP](https://img.shields.io/badge/-Circular%20DP-2A9D8F?style=flat-square)
+
+*   **[你的下一篇精彩文章标题](在此处粘贴你的文章链接)** `(YYYY-MM-DD)`
+    > 在这里填写对文章的简短介绍，吸引读者点击。
+    <br>
+    <!-- 在这里添加你的自定义标签 -->
+    ![标签1](https://img.shields.io/badge/-你的标签-COLOR?style=flat-square)
+    ![标签2](https://img.shields.io/badge/-另一个标签-COLOR?style=flat-square)
+
+
+➡️ [**查看所有文章...**](https://nine19een.com/archives)
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="left"> 
