@@ -42,7 +42,7 @@ I write about my journey in programming, sharing in-depth analysis of problems I
   </a>
 </p>
 
-#### 🆕 **近期分享**
+#### 🆕 **Recent sharing**
 
 *   **[洛谷-P1121-环状最大两段子段和·复盘——续谈环形DP](https://www.nine19een.com/2025/11/03/Luogu-P1133-CircularTwoSegmentSum/)** `2025-11-03`
     > 本文深入剖析了环形DP中的一个经典对偶思想，并详细拆解了一个由“非空”约束引发的隐蔽边界陷阱。
@@ -57,7 +57,7 @@ I write about my journey in programming, sharing in-depth analysis of problems I
 `
     > 本文复盘了如何通过发现一个基于奇偶步骤和 n-3 历史状态的递推规律，从而将一个复杂的图形模拟问题，巧妙地转化为精确的数学计算过程。
 
-➡️ [**查看所有文章...**](https://nine19een.com/archives)
+➡️ [**Review all articles...**](https://nine19een.com/archives)
 
 <!--
 
