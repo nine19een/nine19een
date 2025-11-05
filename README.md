@@ -146,10 +146,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-200-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-201-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-11-05 | [洛谷-B2113-输出亲朋字符串](https://www.luogu.com.cn/problem/B2113)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2113-C.cpp) |
 | 2025-11-04 | [洛谷-P2834-纸币问题 3](https://www.luogu.com.cn/problem/P2834)                 | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2834-C%2B%2B.cpp) / [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2834-C.cpp) |
 | 2025-11-04 | [洛谷-B2112-石头剪子布](https://www.luogu.com.cn/problem/B2112)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2112-C.cpp) |
 | 2025-11-04 | [洛谷-P2840-纸币问题 2](https://www.luogu.com.cn/problem/P2840)                 | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2840-C%2B%2B.cpp) / [View Code (C)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2840-C.cpp) |
