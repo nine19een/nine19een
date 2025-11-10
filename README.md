@@ -146,10 +146,12 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-208-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-210-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-11-10 | [洛谷-B2118-验证子串](https://www.luogu.com.cn/problem/B2118)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2118-C%2B%2B.cpp) |
+| 2025-11-10 | [洛谷-B2117-整理药名](https://www.luogu.com.cn/problem/B2117)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2117-C%2B%2B.cpp) |
 | 2025-11-08 | [洛谷-B2116-加密的病历单](https://www.luogu.com.cn/problem/B2116)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2116-C%2B%2B.cpp) |
 | 2025-11-07 | [洛谷-B2115-密码翻译](https://www.luogu.com.cn/problem/B2115)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2115-C%2B%2B.cpp) |
 | 2025-11-06 | [洛谷-P1028-数的计算](https://www.luogu.com.cn/problem/P1028)                     | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1028-C%2B%2B.cpp) |
