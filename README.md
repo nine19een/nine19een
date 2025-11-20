@@ -146,10 +146,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-222-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-223-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-11-19 | [洛谷-P1420-最长连号](https://www.luogu.com.cn/problem/P1420)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1420-C%2B%2B.cpp) |
 | 2025-11-19 | [洛谷-B2166-查找不重复元素出现的位置](https://www.luogu.com.cn/problem/B2166)                 | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2166-C%2B%2B.cpp) |
 | 2025-11-19 | [洛谷-B2158-谁考了第 k 名](https://www.luogu.com.cn/problem/B2158)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2158-C%2B%2B.cpp) |
 | 2025-11-17 | [洛谷-B2159-成绩排序](https://www.luogu.com.cn/problem/B2159)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2159-C%2B%2B.cpp) |
