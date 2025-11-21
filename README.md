@@ -44,7 +44,7 @@ I write about my journey in programming, sharing in-depth analysis of problems I
 
 #### 🆕 **Recent sharing**
 
-*   **[CF1065-C1/C2·复盘——浅谈 XOR 与博弈中的最高有效位](https://www.nine19een.com/2025/11/21/cf1065-xor/**)** `2025-11-21`
+*   **[CF1065-C1/C2·复盘——浅谈 XOR 与博弈中的最高有效位](https://www.nine19een.com/2025/11/21/cf1065-xor/)** `2025-11-21`
     > 深入解析 CF1065 C1/C2，系统总结 XOR 博弈的核心结构与最高有效位（msb）胜负机制。
 
 *   **[洛谷-P1121-环状最大两段子段和·复盘——续谈环形DP](https://www.nine19een.com/2025/11/03/Luogu-P1121-CircularTwoSegmentSum/)** `2025-11-03`
