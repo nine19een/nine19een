@@ -44,7 +44,7 @@ I write about my journey in programming, sharing in-depth analysis of problems I
 
 #### 🆕 **Recent sharing**
 
-*   **[洛谷-P1121-环状最大两段子段和·复盘——续谈环形DP](https://www.nine19een.com/2025/11/03/Luogu-P1133-CircularTwoSegmentSum/)** `2025-11-03`
+*   **[洛谷-P1121-环状最大两段子段和·复盘——续谈环形DP](https://www.nine19een.com/2025/11/03/Luogu-P1121-CircularTwoSegmentSum/)** `2025-11-03`
     > 本文深入剖析了环形DP中的一个经典对偶思想，并详细拆解了一个由“非空”约束引发的隐蔽边界陷阱。
 
 *   **[洛谷-P1133-教主的花园·复盘——从线性DP到环形DP](https://www.nine19een.com/2025/10/24/Luogu-P1133-FlowerGardenDP/)** `2025-10-25`
