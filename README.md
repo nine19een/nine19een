@@ -150,7 +150,7 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-241-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-243-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
@@ -158,7 +158,8 @@ Welcome to the heart of my GitHub! This is where I document my daily progress in
 | 2025-11-30 | [洛谷-P1830-轰炸III](https://www.luogu.com.cn/problem/P1830)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1830-C%2B%2B.cpp) |
 | 2025-11-29 | [洛谷-P1851-好朋友](https://www.luogu.com.cn/problem/P1851)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1851-C%2B%2B.cpp) |
 | 2025-11-28 | [洛谷-P1319-压缩技术](https://www.luogu.com.cn/problem/P1319)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1319-C%2B%2B.cpp) |
-
+| 2025-11-27 | [洛谷-P1204-挤牛奶 Milking Cows](https://www.luogu.com.cn/problem/P1204)                 | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1204-C%2B%2B.cpp) |
+| 2025-11-27 | [洛谷-P11199-ダンス / Dance](https://www.luogu.com.cn/problem/P11199)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P11199-C%2B%2B.cpp) |
 | 2025-11-26 | [洛谷-P1424-小鱼的航程（改进版）](https://www.luogu.com.cn/problem/P1424)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1424-C%2B%2B.cpp) |
 | 2025-11-26 | [洛谷-P1083-借教室](https://www.luogu.com.cn/problem/P1083)                   | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1083-C%2B%2B.cpp) / [View Code (C++) 重写](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1083(rewrite)-C%2B%2B.cpp) |
 | 2025-11-25 | [洛谷-P1317-低洼地](https://www.luogu.com.cn/problem/P1317)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1317-C%2B%2B.cpp) |
