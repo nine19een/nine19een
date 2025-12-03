@@ -151,10 +151,12 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-245-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-247-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-12-03 | [洛谷 P1835 素数密度](https://www.luogu.com.cn/problem/P1835)               | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1835-C++.cpp) |
+| 2025-12-03 | [洛谷 B2137 判决素数个数](https://www.luogu.com.cn/problem/B2137)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2137-C%2B%2B.cpp) |
 | 2025-12-02 | [洛谷 P5026 Lycanthropy](https://www.luogu.com.cn/problem/P5026)           | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P5026-C++.cpp) |
 | 2025-12-02 | [洛谷 P4231 三步必杀](https://www.luogu.com.cn/problem/P4231)           | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">           | [View Code (C++) 双数组](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P4231(2array)-C++.cpp) / [View Code (C++) 单数组内存优化（二阶差分模板）](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P4231(1array)-C++.cpp) |
 | 2025-12-02 | [洛谷 P1320 压缩技术（续集版）](https://www.luogu.com.cn/problem/P1320)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1320-C%2B%2B.cpp) |
