@@ -153,10 +153,12 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-263-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-265-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-12-08 | [洛谷 P3613 【深基15.例2】寄包柜](https://www.luogu.com.cn/problem/P3613)                 | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P3613-C%2B%2B.cpp) |
+| 2025-12-08 | [洛谷 B2145 digit 函数](https://www.luogu.com.cn/problem/B2145)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2145-C%2B%2B.cpp) |
 | 2025-12-08 | [洛谷 P1540 机器翻译](https://www.luogu.com.cn/problem/P1540)                 | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1540-C++.cpp) / [View Code (C++) unordered_set重写](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1540(rewrite)-C++.cpp)|
 | 2025-12-07 | [洛谷 B2146 Hermite 多项式](https://www.luogu.com.cn/problem/B2146)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2146-C%2B%2B.cpp) |
 | 2025-12-07 | [洛谷 B2144 阿克曼（Ackermann）函数](https://www.luogu.com.cn/problem/B2144)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2144-C%2B%2B.cpp) |
