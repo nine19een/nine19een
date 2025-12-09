@@ -153,10 +153,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-269-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-270-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-12-09 | [洛谷 P1725 琪露诺](https://www.luogu.com.cn/problem/P1725)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1725-C%2B%2B.cpp) |
 | 2025-12-09 | [洛谷 B2131 甲流病人初筛](https://www.luogu.com.cn/problem/B2131)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2131-C%2B%2B.cpp) |
 | 2025-12-09 | [洛谷 P1886 单调队列 / 滑动窗口](https://www.luogu.com.cn/problem/P1886)                 | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1886-C%2B%2B.cpp) |
 | 2025-12-09 | [洛谷 P1093 奖学金](https://www.luogu.com.cn/problem/P1093)                 | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1093-C%2B%2B.cpp) |
