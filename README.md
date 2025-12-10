@@ -153,10 +153,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-271-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-272-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-12-10 | [洛谷 B2133 我家的门牌号](https://www.luogu.com.cn/problem/B2133)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2133-C%2B%2B.cpp) |
 | 2025-12-10 | [洛谷 P1972 HH 的项链](https://www.luogu.com.cn/problem/P1972)                 | <img src="https://img.shields.io/badge/提高%2B%2F省选−-3498DB?style=for-the-badge" alt="提高+/省选−">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1972-C%2B%2B.cpp) |
 | 2025-12-09 | [洛谷 P1725 琪露诺](https://www.luogu.com.cn/problem/P1725)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1725-C%2B%2B.cpp) |
 | 2025-12-09 | [洛谷 B2131 甲流病人初筛](https://www.luogu.com.cn/problem/B2131)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2131-C%2B%2B.cpp) |
