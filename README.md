@@ -44,7 +44,7 @@ I write about my journey in programming, sharing in-depth analysis of problems I
 
 #### 🆕 **Recent sharing**
 
-*   **[从 洛谷 P1637 三元上升子序列 到 SPOJ INCSEQ —— 长度 k 严格上升子序列的树状数组模板]([https://www.nine19een.com/2025/11/21/cf1065-xor/](https://www.nine19een.com/2025/12/11/P1637-INCSEQ-Fenwick-Tree-DP-for-Strictly-Increasing-Subsequences-of-Length-k/))** `2025-12-11`
+*   **[从 洛谷 P1637 三元上升子序列 到 SPOJ INCSEQ —— 长度 k 严格上升子序列的树状数组模板](https://www.nine19een.com/2025/12/11/P1637-INCSEQ-Fenwick-Tree-DP-for-Strictly-Increasing-Subsequences-of-Length-k/)** `2025-12-11`
     > 本文复盘洛谷 P1637 三元上升子序列 和 SPOJ INCSEQ，从“两棵树状数组统计三元上升子序列”出发，总结出一套可直接套用的「长度为 k 的严格上升子序列」Fenwick 模板，并结合代码讲清离散化、滚动更新与复杂度细节。
 
 *   **[CF1065-C1/C2·复盘——浅谈 XOR 与博弈中的最高有效位](https://www.nine19een.com/2025/11/21/cf1065-xor/)** `2025-11-21`
