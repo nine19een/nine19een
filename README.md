@@ -73,7 +73,7 @@ I write about my journey in programming, sharing in-depth analysis of problems I
 -->
 
 ---
-<!-- 
+
 ### 🛠️ Languages and Tools
 
 <p align="left"> 
@@ -114,7 +114,7 @@ I write about my journey in programming, sharing in-depth analysis of problems I
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/> 
   </a> 
 </p>
--->
+
 ---
 
 ### 📊 My GitHub Stats & Activity
