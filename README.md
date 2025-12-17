@@ -157,10 +157,12 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-280-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-282-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-12-16 | [洛谷 B3968 成绩排序](https://www.luogu.com.cn/problem/B3968)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B3968-C.cpp) |
+| 2025-12-16 | [洛谷 P5740 最厉害的学生](https://www.luogu.com.cn/problem/P5740)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P5740-C.cpp) |
 | 2025-12-14 | [洛谷 P1876 开灯](https://www.luogu.com.cn/problem/P1876)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1876-C%2B%2B.cpp) |
 | 2025-12-13 | [AtCoder Beginner Contest 436 D - Teleport Maze](https://atcoder.jp/contests/abc436/tasks/abc436_d) | <img src="https://img.shields.io/badge/ABC%20D-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-436-D.cpp) |
 | 2025-12-13 | [AtCoder Beginner Contest 436 C - 2x2 Placing](https://atcoder.jp/contests/abc436/tasks/abc436_c) | <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-436-C.cpp) |
