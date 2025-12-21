@@ -158,10 +158,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-289-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-290-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2025-12-21 | [洛谷 P2939 Revamping Trails G](https://www.luogu.com.cn/problem/P2939)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2939-C%2B%2B.cpp) |
 | 2025-12-21 | [洛谷 P4568 飞行路线](https://www.luogu.com.cn/problem/P4568)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P4568-C%2B%2B.cpp) |
 | 2025-12-21 | [洛谷 P1462 通往奥格瑞玛的道路](https://www.luogu.com.cn/problem/P1462)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1462-C%2B%2B.cpp) |
 | 2025-12-20 | [洛谷 P4822 冻结](https://www.luogu.com.cn/problem/P4822)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P4822-C%2B%2B.cpp) |
