@@ -116,13 +116,12 @@ I write about my journey in programming, sharing in-depth analysis of problems I
 </p>
 
 ---
-
+<!--
 ### 📊 My GitHub Stats & Activity
 
   <img src="https://github-readme-stats.vercel.app/api?username=nine19een&show_icons=true&locale=en&theme=dracula&count_private=true&include_all_commits=true" alt="nine19een's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nine19een&layout=compact&locale=en&theme=dracula&langs_count=10&hide=html,css" alt="nine19een's Top Languages" />
-
----
+-->
 
 ### 🏆 My Contest History
 Here is a log of my performance in online programming contests.
