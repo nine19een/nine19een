@@ -157,10 +157,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-292-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-293-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-01-02 | [洛谷 P3956 棋盘](https://www.luogu.com.cn/problem/P3956)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P3956-C%2B%2B.cpp) |
 | 2025-12-22 | [洛谷 P2149 Elaxia的路线](https://www.luogu.com.cn/problem/P2149)                 | <img src="https://img.shields.io/badge/提高%2B%2F省选−-3498DB?style=for-the-badge" alt="提高+/省选−">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2149-C%2B%2B.cpp) |
 | 2025-12-22 | [洛谷 P1807 最长路](https://www.luogu.com.cn/problem/P1807)                 | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1807-C%2B%2B.cpp) |
 | 2025-12-21 | [洛谷 P2939 Revamping Trails G](https://www.luogu.com.cn/problem/P2939)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2939-C%2B%2B.cpp) |
