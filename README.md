@@ -158,10 +158,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-301-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-302-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-01-03 | [洛谷 P4281 紧急集合 / 聚会](https://www.luogu.com.cn/problem/P4281)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P4281-C%2B%2B.cpp) |
 | 2026-01-03 | [洛谷 P3398 仓鼠找 sugar](https://www.luogu.com.cn/problem/P3398)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P3398-C%2B%2B.cpp) |
 | 2026-01-03 | [洛谷 P2912 Pasture Walking G](https://www.luogu.com.cn/problem/P2912)            | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2912-C%2B%2B.cpp) |
 | 2026-01-02 | [洛谷 P3379 最近公共祖先（LCA）](https://www.luogu.com.cn/problem/P3379)            | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P3379-C%2B%2B.cpp) |
