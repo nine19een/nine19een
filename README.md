@@ -162,10 +162,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-321-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-322-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-01-19 | [洛谷 P4387 验证栈序列](https://www.luogu.com.cn/problem/P4387)                 | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P4387-C%2B%2B.cpp) |
 | 2026-01-19 | [Codeforces Round 1074 E - The Robotic Rush](https://codeforces.com/contest/2185/problem/E) | <img src="https://img.shields.io/badge/Div.4%20E-008000?style=for-the-badge"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1074-E.cpp) |
 | 2026-01-18 | [Codeforces Round 1074 D - OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | <img src="https://img.shields.io/badge/Div.4%20D-008000?style=for-the-badge"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1074-D.cpp) |
 | 2026-01-18 | [Codeforces Round 1074 C - Shifted MEX](https://codeforces.com/contest/2185/problem/C) | <img src="https://img.shields.io/badge/Div.4%20C-008000?style=for-the-badge"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1074-C.cpp) |
