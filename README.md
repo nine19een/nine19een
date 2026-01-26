@@ -163,10 +163,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-338-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-339-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-01-25 | [洛谷 P3763 DNA](https://www.luogu.com.cn/problem/P3763)                 | <img src="https://img.shields.io/badge/省选%2FNOI−-9D3DCF?style=for-the-badge" alt="省选/NOI−">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P3763-C%2B%2B.cpp) |
 | 2026-01-25 | [洛谷 P2870 Best Cow Line G](https://www.luogu.com.cn/problem/P2870)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2870-C%2B%2B.cpp) |
 | 2026-01-25 | [洛谷 P4391 Radio Transmission 无线传输](https://www.luogu.com.cn/problem/P4391)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P4391-C%2B%2B.cpp) |
 | 2026-01-25 | [洛谷 P2957 Barn Echoes G](https://www.luogu.com.cn/problem/P2957)                 | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2957-C%2B%2B.cpp) |
