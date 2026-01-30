@@ -163,10 +163,13 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-351-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-354-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-01-30 | [洛谷 P2458 保安站岗](https://www.luogu.com.cn/problem/P2458)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2458-C%2B%2B.cpp) |
+| 2026-01-30 | [洛谷 P1122 最大子树和](https://www.luogu.com.cn/problem/P1122)                 | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1122-C%2B%2B.cpp) |
+| 2026-01-30 | [洛谷 P1352 没有上司的舞会](https://www.luogu.com.cn/problem/P1352)                 | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1352-C%2B%2B.cpp) |
 | 2026-01-29 | [洛谷 P5459 回转寿司](https://www.luogu.com.cn/problem/P5459)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P5459-C%2B%2B.cpp) |
 | 2026-01-29 | [洛谷 P1610 鸿山洞的灯](https://www.luogu.com.cn/problem/P1610)                 | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1610-C%2B%2B.cpp) |
 | 2026-01-29 | [洛谷 P1622 释放囚犯](https://www.luogu.com.cn/problem/P1622)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1622-C%2B%2B.cpp) |
