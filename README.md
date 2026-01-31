@@ -164,10 +164,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-358-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-359-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-02-01 | [AtCoder Beginner Contest 443 E - Climbing Silver](https://atcoder.jp/contests/abc443/tasks/abc443_e) | <img src="https://img.shields.io/badge/Div.4%20E-008000?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-443-E.cpp) |
 | 2026-01-31 | [AtCoder Beginner Contest 443 D - Pawn Line](https://atcoder.jp/contests/abc443/tasks/abc443_d) | <img src="https://img.shields.io/badge/ABC%20D-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-443-D.cpp) |
 | 2026-01-31 | [AtCoder Beginner Contest 443 C - Chokutter Addiction](https://atcoder.jp/contests/abc443/tasks/abc443_c) | <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">                                  | [View Code (C++) ](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-443-C.cpp) |
 | 2026-01-31 | [AtCoder Beginner Contest 443 B - Setsubun](https://atcoder.jp/contests/abc443/tasks/abc443_b) | <img src="https://img.shields.io/badge/ABC%20B-804000?style=for-the-badge&logo=atcoder&logoColor=white">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-443-B.cpp) |
