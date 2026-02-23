@@ -166,10 +166,11 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-370-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-371-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-02-23 | [洛谷 P3155 叶子的染色](https://www.luogu.com.cn/problem/P3155)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P3155-C%2B%2B.cpp) |
 | 2026-02-22 | [洛谷 P1131 时态同步](https://www.luogu.com.cn/problem/P1131)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1131-C%2B%2B.cpp) |
 | 2026-02-19 | [洛谷 P1273 有线电视网](https://www.luogu.com.cn/problem/P1273)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1273-C%2B%2B.cpp) |
 | 2026-02-19 | [洛谷 P2014 选课](https://www.luogu.com.cn/problem/P2014)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2014-C%2B%2B.cpp) |
