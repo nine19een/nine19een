@@ -168,10 +168,12 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-377-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-379-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-03-18 | [洛谷 P2564 生日礼物](https://www.luogu.com.cn/problem/P2564)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2564-C%2B%2B.cpp) |
+| 2026-03-18 | [洛谷 P1638 逛画展](https://www.luogu.com.cn/problem/P1638)                 | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1638-C%2B%2B.cpp) |
 | 2026-03-17 | [洛谷 P1094 纪念品分组](https://www.luogu.com.cn/problem/P1094)                 | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1094-C%2B%2B.cpp) |
 | 2026-03-14 | [AtCoder Beginner Contest 449 C - Comfortable Distance](https://atcoder.jp/contests/abc449/tasks/abc449_c) | <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">                                 | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-449-C.cpp) |
 | 2026-03-14 | [AtCoder Beginner Contest 449 B - Deconstruct Chocolate](https://atcoder.jp/contests/abc449/tasks/abc449_b) | <img src="https://img.shields.io/badge/ABC%20B-804000?style=for-the-badge&logo=atcoder&logoColor=white">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-449-B.cpp) |
