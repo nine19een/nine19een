@@ -169,10 +169,13 @@ Here is a log of my performance in online programming contests.
 
 Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
 
-<img src="https://img.shields.io/badge/Total%20Solved-387-282A36?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Total%20Solved-390-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-03-25 | [洛谷 P2895 Meteor Shower S](https://www.luogu.com.cn/problem/P2895)        | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2895-C%2B%2B.cpp) |
+| 2026-03-25 | [洛谷 P1825 Corn Maze S](https://www.luogu.com.cn/problem/P1825)        | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1825-C%2B%2B.cpp) |
+| 2026-03-25 | [洛谷 P1141 01迷宫](https://www.luogu.com.cn/problem/P1141)          | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1141-C%2B%2B.cpp) |
 | 2026-03-25 | [洛谷 P1238 走迷宫](https://www.luogu.com.cn/problem/P1238)                 | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1238-C%2B%2B.cpp) |
 | 2026-03-24 | [洛谷 P1363 幻象迷宫](https://www.luogu.com.cn/problem/P1363)                 | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1363-C%2B%2B.cpp) |
 | 2026-03-21 | [AtCoder Beginner Contest 450 D - Minimize Range](https://atcoder.jp/contests/abc450/tasks/abc450_d) | <img src="https://img.shields.io/badge/ABC%20D-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-450-D.cpp) |
