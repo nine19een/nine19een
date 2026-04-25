@@ -1,130 +1,107 @@
-<!-- 
-  Hello! This is a more advanced and beautifully formatted README template.
-  Just replace the placeholders like [你的名字或昵称] and `你的用户名` with your own information.
-  111
--->
-
 <div align="center">
 
-  <h1 align="center">Hi there, I'm nine19een 👋</h1>
-  
-  <h3 align="center">A Passionate Computer Science Student and Lifelong Learner.</h3>
+# nine19een
 
-  <p align="center">
-    <a href="mailto:nine19eenowo@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-    </a>
-  </p>
+### CS Freshman · Competitive Programming · AI-assisted Builder
+
+<p>
+  <a href="https://nine19een.com">
+    <img src="https://img.shields.io/badge/Blog-nine19een.com-43A047?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="mailto:nine19eenowo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nine19eenowo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/nine19een/Coding-Practice">
+    <img src="https://img.shields.io/badge/Coding%20Practice-416%2B%20Solved-282A36?style=for-the-badge&logo=github&logoColor=white" alt="Coding Practice"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## About Me
 
-I'm a freshman majoring in Computer Science, deeply fascinated by how code can be structured to solve real-world problems. My goal is to become a proficient algorithm engineer. This GitHub profile is my digital journal, tracking my growth one commit at a time.
+I'm a freshman majoring in Computer Science, currently growing along two main tracks:
 
-- 🌱 I’m currently diving deep into **Data Structures and Algorithms**.
-- 🔭 I’m exploring the worlds of **C++ and Competitive Programming**.
-- 💬 Ask me about anything related to my learning journey!
-- 📫 How to reach me: [Contact Me via Email](mailto:nine19eenowo@gmail.com)
-- ⚡ Fun fact: I believe `while(alive){ eat(); sleep(); code(); }` is the formula for happiness.
+- **Competitive Programming & Algorithmic Thinking**  
+  I use problem solving as my main training ground, focusing on C++, data structures, dynamic programming, graph algorithms, search, greedy methods, and implementation skills.
 
----
+- **AI-assisted Software Building**  
+  I am also exploring how to turn ideas into usable projects with modern web technologies and AI coding tools, especially through small front-end experiments built with React and TypeScript.
 
-### 📝 My Blog
-
-I write about my journey in programming, sharing in-depth analysis of problems I've solved and technologies I've explored. Welcome to my digital garden!
-
-<p align="left">
-  <a href="https://nine19een.com" target="_blank">
-    <img src="https://img.shields.io/badge/Personal%20Blog-nine19een.com-43A047?style=for-the-badge&logo=rss&logoColor=white" alt="My Blog"/>
-  </a>
-</p>
-
-#### 🆕 **Recent sharing**
-
-*   **[从 洛谷 P1637 三元上升子序列 到 SPOJ INCSEQ —— 长度 k 严格上升子序列的树状数组模板](https://www.nine19een.com/2025/12/11/P1637-INCSEQ-Fenwick-Tree-DP-for-Strictly-Increasing-Subsequences-of-Length-k/)** `2025-12-11`
-    > 本文复盘洛谷 P1637 三元上升子序列 和 SPOJ INCSEQ，从“两棵树状数组统计三元上升子序列”出发，总结出一套可直接套用的「长度为 k 的严格上升子序列」Fenwick 模板，并结合代码讲清离散化、滚动更新与复杂度细节。
-
-*   **[CF1065-C1/C2·复盘——浅谈 XOR 与博弈中的最高有效位](https://www.nine19een.com/2025/11/21/cf1065-xor/)** `2025-11-21`
-    > 深入解析 CF1065 C1/C2，系统总结 XOR 博弈的核心结构与最高有效位（msb）胜负机制。
-
-*   **[洛谷-P1121-环状最大两段子段和·复盘——续谈环形DP](https://www.nine19een.com/2025/11/03/Luogu-P1121-CircularTwoSegmentSum/)** `2025-11-03`
-    > 本文深入剖析了环形DP中的一个经典对偶思想，并详细拆解了一个由“非空”约束引发的隐蔽边界陷阱。
-
-*   **[洛谷-P1133-教主的花园·复盘——从线性DP到环形DP](https://www.nine19een.com/2025/10/24/Luogu-P1133-FlowerGardenDP/)** `2025-10-25`
-    > 本文复盘了经典的环形DP题目「教主的花园」，记录了从错误的线性DP模型到正确的“破环成链”解法的完整思路。
-
-*   **[逆序k倍对·复盘](https://www.nine19een.com/2025/10/12/K-InversePairs/)** `2025-10-13`
-    > 本文复盘了如何运用离散化技巧处理大数值范围，并结合树状数组这一高效数据结构，将问题从O(n²)优化至O(n log n)的解题全过程。
-
-*   **[丁香花分形·复盘——从递推关系中洞悉分形之美](https://www.nine19een.com/2025/10/11/LilacFractal/)** `2025-10-12
-`
-    > 本文复盘了如何通过发现一个基于奇偶步骤和 n-3 历史状态的递推规律，从而将一个复杂的图形模拟问题，巧妙地转化为精确的数学计算过程。
-
-➡️ [**Review all articles...**](https://nine19een.com/archives)
-
-<!--
-
-*   **[标题](链接)** `(YYYY-MM-DD)`
-    > 内容概括 
-    
--->
+This GitHub profile is my long-term technical journal: part coding archive, part blog index, part record of how I grow from solving problems to building real things.
 
 ---
 
-### 🛠️ Languages and Tools
+## Current Focus
 
-<p align="left"> 
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-  </a>
-  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
-  </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
-  </a>
-  <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" alt="clion" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/> 
-  </a> 
+```text
+Competitive Programming  ->  C++ / AtCoder / Codeforces / Luogu
+Algorithm Notes          ->  Problem reviews and reusable patterns
+AI-assisted Development  ->  Learning to build small web projects with AI tools
+Technical Writing        ->  Recording mistakes, ideas, and solution structures
+```
+
+---
+
+## Featured Projects
+
+
+---
+
+## Blog Highlights
+
+I write technical posts about algorithm problems I have solved, focusing not only on accepted code, but also on the thinking process, mistakes, patterns, and reusable ideas behind the solution.
+
+### Selected Articles
+
+- **[从 洛谷 P1637 三元上升子序列 到 SPOJ INCSEQ —— 长度 k 严格上升子序列的树状数组模板](https://www.nine19een.com/2025/12/11/P1637-INCSEQ-Fenwick-Tree-DP-for-Strictly-Increasing-Subsequences-of-Length-k/)**  
+  A review of how to generalize from counting increasing triples to counting strictly increasing subsequences of length `k` using layered DP and Fenwick Trees.
+
+- **[CF1065-C1/C2·复盘——浅谈 XOR 与博弈中的最高有效位](https://www.nine19een.com/2025/11/21/cf1065-xor/)**  
+  A reflection on XOR games and the role of the most significant bit in determining game states.
+
+- **[洛谷-P1121-环状最大两段子段和·复盘——续谈环形DP](https://www.nine19een.com/2025/11/03/Luogu-P1121-CircularTwoSegmentSum/)**  
+  A detailed review of circular DP, duality, and subtle boundary cases caused by non-empty constraints.
+
+- **[洛谷-P1133-教主的花园·复盘——从线性DP到环形DP](https://www.nine19een.com/2025/10/24/Luogu-P1133-FlowerGardenDP/)**  
+  A record of the transition from an incorrect linear DP model to a correct ring-to-chain DP solution.
+
+➡️ **[Read more on my blog](https://nine19een.com/archives)**
+
+---
+
+## Competitive Programming
+
+I use competitive programming as my main way to train algorithmic thinking, coding stability and problem decomposition.
+
+<p>
+  <img src="https://img.shields.io/badge/Total%20Solved-416%2B-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/Main%20Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Platforms-Luogu%20%7C%20AtCoder%20%7C%20Codeforces-00C0C0?style=for-the-badge" alt="Platforms"/>
 </p>
 
 ---
-<!--
-### 📊 My GitHub Stats & Activity
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nine19een&show_icons=true&locale=en&theme=dracula&count_private=true&include_all_commits=true" alt="nine19een's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nine19een&layout=compact&locale=en&theme=dracula&langs_count=10&hide=html,css" alt="nine19een's Top Languages" />
+## Contest Records
+
+I use online contests to test my current problem-solving ability under time pressure.
+
+This section records my contest history across AtCoder, Codeforces, Lanqiao and other platforms.  
+I keep the full table here as a long-term archive of my progress, including solved count, rank, rating change and submission links when available.
+
+<details>
+<summary><strong>🏆 Full Contest History</strong></summary>
+
+<br>
+
+<!-- 
+Paste your original "My Contest History" table here.
+
+Keep the table exactly as it is if you like.
+This section is folded so it will not make the homepage visually overwhelming.
 -->
-
-### 🏆 My Contest History
-Here is a log of my performance in online programming contests.
 
 | Date       | Contest                                                              | Type | TL        | Solved    | Rank       | Performance (New Rating & Δ)                                                               | Results                                                    |
 | :--------: | :------------------------------------------------------------------: | :--: | :-------: | :--------: | :---------: | :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------- |
@@ -156,22 +133,33 @@ Here is a log of my performance in online programming contests.
 | 2025-08-08 | [Codeforces Round 1017 (Div. 4)](https://codeforces.com/contest/2094) | VP   | 2h 10min  | 3/8       | ---        | ---                                                                                        | [View Submissions](https://codeforces.com/contest/2094/my) |
 | 2025-07-24 | [Codeforces Round 1003 (Div. 4)](https://codeforces.com/contest/2065) | VP   | 2h 30min  | 2/8       | ---        | ---                                                                                        | [View Submissions](https://codeforces.com/contest/2065/my) |
 
+</details>
+
 ---
 
+## Coding Practice Log
+
+This is the archive of my daily problem-solving practice.  
+The full table is intentionally folded to keep the profile readable while preserving the complete record.
+
+<details>
+<summary><strong>🚀 Full Coding Practice Log — 416+ solved</strong></summary>
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Total%20Solved-416%2B-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+</p>
+
 <!-- 
-  ⬇️ 这是新比赛的模板行，把它复制到表格的 |:---| 下方来添加新记录 ⬇️
+Paste your original "My Coding Practice Log" table here.
 
-| YYYY-MM-DD | [比赛全名](比赛链接) |时间限制| 你的排名 | <b>新Rating</b> 徽章 | [View Submissions](你的结果链接) |
-  Rating 变化徽章模板 (把数字和颜色换掉):
-  - Rating 上升: <img src="https://img.shields.io/badge/%2B数字-43A047?style=flat-square">
-  - Rating 下降: <img src="https://img.shields.io/badge/--数字-E53935?style=flat-square">
+Recommended:
+- Keep the newest problems at the top.
+- Continue using platform + problem ID + title.
+- Keep solution links.
+- You may keep difficulty badges if you like the visual style.
 -->
-
-### 🚀 My Coding Practice Log
-
-Welcome to the heart of my GitHub! This is where I document my daily progress in problem-solving. Every entry links to the solution file in my **[Coding-Practice Repository](https://github.com/nine19een/Coding-Practice)**.
-
-<img src="https://img.shields.io/badge/Total%20Solved-416-282A36?style=for-the-badge&logoColor=white">
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
@@ -615,21 +603,73 @@ Welcome to the heart of my GitHub! This is where I document my daily progress in
 | 2025-07-02 | [洛谷 P5720 一尺之棰](https://www.luogu.com.cn/problem/P5720)                 | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P5720-C%2B%2B.cpp) |
 | 2025-07-02 | [洛谷 P5721 数字直角三角形](https://www.luogu.com.cn/problem/P5721)           | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P5721-C%2B%2B.cpp) |
 
+</details>
+
+---
+
+## Tech Stack
+
+### Algorithm & Programming
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### Web & AI-assisted Building
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+  <img src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white" alt="Hexo"/>
+</p>
+
+---
+
+## GitHub Stats
+
 <!-- 
-  ⬇️ 这是新题目的模板行，把它复制到表格的 |:---| 下方来添加新题目 ⬇️
-
-| YYYY-MM-DD | [题目编号. 题目名称](题目链接)       | <img src="https://img.shields.io/badge/难度-颜色?style=for-the-badge" alt="难度"> | [View Code (语言)](代码文件链接) |
-
-  难度徽章选择:
-  <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge" alt="入门">
-  <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge" alt="普及−">
-  <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−">
-  <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">
-  <img src="https://img.shields.io/badge/提高%2B%2F省选−-3498DB?style=for-the-badge" alt="提高+/省选−">
-  <img src="https://img.shields.io/badge/省选%2FNOI−-9D3DCF?style=for-the-badge" alt="省选/NOI−">
-  <img src="https://img.shields.io/badge/NOI%2FNOI%2B%2FCTSC-0E1D69?style=for-the-badge" alt="NOI/NOI+/CTSC">
-  <img src="https://img.shields.io/badge/Div.3%20A-008000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Div.3%20B-008000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Div.3%20C-008000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Div.3%20D-03A89E?style=for-the-badge">
+Optional section.
+If you think it makes the profile too visually noisy, you can keep this commented out.
 -->
+
+<!--
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=nine19een&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="nine19een's GitHub Stats" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nine19een&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" alt="Top Languages" />
+
+</div>
+-->
+
+---
+
+## Contact
+
+- Blog: [nine19een.com](https://nine19een.com)
+- Email: [nine19eenowo@gmail.com](mailto:nine19eenowo@gmail.com)
+
+---
+
+<div align="center">
+
+### Building, solving, writing, and slowly getting better.
+
+</div>
