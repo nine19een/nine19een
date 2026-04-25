@@ -20,7 +20,7 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm a freshman majoring in Computer Science, currently growing along two main tracks:
 
@@ -34,45 +34,40 @@ This GitHub profile is my long-term technical journal: part coding archive, part
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-```text
-Competitive Programming  ->  C++ / AtCoder / Codeforces / Luogu
-Algorithm Notes          ->  Problem reviews and reusable patterns
-AI-assisted Development  ->  Learning to build small web projects with AI tools
-Technical Writing        ->  Recording mistakes, ideas, and solution structures
-```
-
----
-
-## Featured Projects
-
+| Track | What I'm working on |
+| :-- | :-- |
+| Competitive Programming | C++ / AtCoder / Codeforces / Luogu |
+| Algorithm Notes | Problem reviews and reusable solution patterns |
+| AI-assisted Development | Learning to build small web projects with AI tools |
+| Technical Writing | Recording mistakes, ideas and solution structures |
 
 ---
 
-## Blog Highlights
+## 📝 Blog Highlights
 
 I write technical posts about algorithm problems I have solved, focusing not only on accepted code, but also on the thinking process, mistakes, patterns, and reusable ideas behind the solution.
 
 ### Selected Articles
 
-- **[从 洛谷 P1637 三元上升子序列 到 SPOJ INCSEQ —— 长度 k 严格上升子序列的树状数组模板](https://www.nine19een.com/2025/12/11/P1637-INCSEQ-Fenwick-Tree-DP-for-Strictly-Increasing-Subsequences-of-Length-k/)**  
-  A review of how to generalize from counting increasing triples to counting strictly increasing subsequences of length `k` using layered DP and Fenwick Trees.
+- 📑 **[从 洛谷 P1637 三元上升子序列 到 SPOJ INCSEQ —— 长度 k 严格上升子序列的树状数组模板](https://www.nine19een.com/2025/12/11/P1637-INCSEQ-Fenwick-Tree-DP-for-Strictly-Increasing-Subsequences-of-Length-k/)**  
+  Layered DP and Fenwick Tree for counting increasing subsequences.
 
-- **[CF1065-C1/C2·复盘——浅谈 XOR 与博弈中的最高有效位](https://www.nine19een.com/2025/11/21/cf1065-xor/)**  
-  A reflection on XOR games and the role of the most significant bit in determining game states.
+- 📑 **[CF1065-C1/C2·复盘——浅谈 XOR 与博弈中的最高有效位](https://www.nine19een.com/2025/11/21/cf1065-xor/)**  
+  XOR games and the role of the most significant bit.
 
-- **[洛谷-P1121-环状最大两段子段和·复盘——续谈环形DP](https://www.nine19een.com/2025/11/03/Luogu-P1121-CircularTwoSegmentSum/)**  
-  A detailed review of circular DP, duality, and subtle boundary cases caused by non-empty constraints.
+- 📑 **[洛谷-P1121-环状最大两段子段和·复盘——续谈环形DP](https://www.nine19een.com/2025/11/03/Luogu-P1121-CircularTwoSegmentSum/)**  
+  Circular DP, duality and boundary cases.
 
-- **[洛谷-P1133-教主的花园·复盘——从线性DP到环形DP](https://www.nine19een.com/2025/10/24/Luogu-P1133-FlowerGardenDP/)**  
-  A record of the transition from an incorrect linear DP model to a correct ring-to-chain DP solution.
+- 📑 **[洛谷-P1133-教主的花园·复盘——从线性DP到环形DP](https://www.nine19een.com/2025/10/24/Luogu-P1133-FlowerGardenDP/)**  
+  From linear DP to ring-to-chain DP.
 
 ➡️ **[Read more on my blog](https://nine19een.com/archives)**
 
 ---
 
-## Competitive Programming
+## 🧠 Competitive Programming
 
 I use competitive programming as my main way to train algorithmic thinking, coding stability and problem decomposition.
 
@@ -84,7 +79,7 @@ I use competitive programming as my main way to train algorithmic thinking, codi
 
 ---
 
-## Contest Records
+## 🏆 Contest Records
 
 I use online contests to test my current problem-solving ability under time pressure.
 
@@ -137,7 +132,7 @@ This section is folded so it will not make the homepage visually overwhelming.
 
 ---
 
-## Coding Practice Log
+## 🚀 Coding Practice Log
 
 This is the archive of my daily problem-solving practice.  
 The full table is intentionally folded to keep the profile readable while preserving the complete record.
@@ -607,7 +602,7 @@ Recommended:
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Algorithm & Programming
 
@@ -640,28 +635,7 @@ Recommended:
 
 ---
 
-## GitHub Stats
-
-<!-- 
-Optional section.
-If you think it makes the profile too visually noisy, you can keep this commented out.
--->
-
-<!--
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=nine19een&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="nine19een's GitHub Stats" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nine19een&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" alt="Top Languages" />
-
-</div>
--->
-
----
-
-## Contact
+## 📫 Contact
 
 - Blog: [nine19een.com](https://nine19een.com)
 - Email: [nine19eenowo@gmail.com](mailto:nine19eenowo@gmail.com)
