@@ -49,19 +49,17 @@ This GitHub profile is my long-term technical journal: part coding archive, part
 
 I write technical posts about algorithm problems I have solved, focusing not only on accepted code, but also on the thinking process, mistakes, patterns, and reusable ideas behind the solution.
 
-### Selected Articles
-
-- 📑 **[从 洛谷 P1637 三元上升子序列 到 SPOJ INCSEQ —— 长度 k 严格上升子序列的树状数组模板](https://www.nine19een.com/2025/12/11/P1637-INCSEQ-Fenwick-Tree-DP-for-Strictly-Increasing-Subsequences-of-Length-k/)**  
+- 📑 **[洛谷 P1637 / SPOJ SP2815 INCSEQ 复盘：长度 k 严格上升子序列的树状数组模板](https://www.nine19een.com/2025/12/11/P1637-INCSEQ-Fenwick-Tree-DP-for-Strictly-Increasing-Subsequences-of-Length-k/)**  
   Layered DP and Fenwick Tree for counting increasing subsequences.
 
-- 📑 **[CF1065-C1/C2·复盘——浅谈 XOR 与博弈中的最高有效位](https://www.nine19een.com/2025/11/21/cf1065-xor/)**  
+- 📑 **[Codeforces 1065-C1/C2 复盘：XOR 博弈与最高有效位](https://www.nine19een.com/2025/11/21/cf1065-xor/)**  
   XOR games and the role of the most significant bit.
 
-- 📑 **[洛谷-P1121-环状最大两段子段和·复盘——续谈环形DP](https://www.nine19een.com/2025/11/03/Luogu-P1121-CircularTwoSegmentSum/)**  
-  Circular DP, duality and boundary cases.
+- 📑 **[洛谷 P1133 复盘：从线性 DP 到破环成链](https://www.nine19een.com/2025/10/24/Luogu-P1133-FlowerGardenDP/)**  
+  From flawed linear DP to standard ring-to-chain DP.
 
-- 📑 **[洛谷-P1133-教主的花园·复盘——从线性DP到环形DP](https://www.nine19een.com/2025/10/24/Luogu-P1133-FlowerGardenDP/)**  
-  From linear DP to ring-to-chain DP.
+- 📑 **[AtCoder ABC455-E 复盘：前缀差值统计与三集合容斥](https://www.nine19een.com/2026/04/26/abc455-e-prefix-difference-inclusion-exclusion-review/)**  
+  Prefix-difference states and inclusion-exclusion for substring counting.
 
 ➡️ **[Read more on my blog](https://nine19een.com/archives)**
 
