@@ -77,7 +77,15 @@ I use competitive programming as my main way to train algorithmic thinking, codi
 
 ---
 
-## 🏆 Contest Records
+## 🏆 Honors & Awards
+
+- 🥇 **Lanqiao Cup Provincial First Prize, 2026**  
+  蓝桥杯省赛一等奖 · C/C++ 程序设计大学 B 组 · 北京赛区  
+  Ranked **25th** in Beijing Division, approximately **top 1.4%** based on 179 first-prize winners.
+
+---
+
+## 📘 Contest Records
 
 I use online contests to test my current problem-solving ability under time pressure.
 
@@ -99,6 +107,7 @@ This section is folded so it will not make the homepage visually overwhelming.
 | Date       | Contest                                                              | Type | TL        | Solved    | Rank       | Performance (New Rating & Δ)                                                               | Results                                                    |
 | :--------: | :------------------------------------------------------------------: | :--: | :-------: | :--------: | :---------: | :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------- |
 | 2025-04-25 | [AtCoder Beginner Contest 455](https://atcoder.jp/contests/abc455) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 4/7       | 3837/10243  | <b>777</b> <img src="https://img.shields.io/badge/AtCoder-%2B24-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc455/submissions/me) |
+| 2026-04-11 | 蓝桥杯省赛（C/C++ 程序设计大学 B 组，北京赛区） | <img src="https://img.shields.io/badge/Onsite-1565C0?style=for-the-badge" alt="Onsite"> | 4h | --- | 25th, approx. top 1.4% | Provincial First Prize🥇 | --- |
 | 2025-03-28 | [AtCoder Beginner Contest 451](https://atcoder.jp/contests/abc451) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 4/7       | 3795/10775  | <b>753</b> <img src="https://img.shields.io/badge/AtCoder-%2B40-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc451/submissions/me) |
 | 2025-03-21 | [AtCoder Beginner Contest 450](https://atcoder.jp/contests/abc450) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 4/7       | 3623/10935  | <b>713</b> <img src="https://img.shields.io/badge/AtCoder-%2B57-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc450/submissions/me) |
 | 2025-03-14 | [AtCoder Beginner Contest 449](https://atcoder.jp/contests/abc449) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 3/7       | 6447/10836  | <b>656</b> <img src="https://img.shields.io/badge/AtCoder---18-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc449/submissions/me) |
