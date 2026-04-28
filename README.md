@@ -93,7 +93,7 @@ This section records my contest history across AtCoder, Codeforces, Lanqiao and 
 I keep the full table here as a long-term archive of my progress, including solved count, rank, rating change and submission links when available.
 
 <details>
-<summary><strong>🏆 Full Contest History</strong></summary>
+<summary><strong>📘 Full Contest History</strong></summary>
 
 <br>
 
