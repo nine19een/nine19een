@@ -51,7 +51,8 @@ This GitHub profile is my long-term technical journal: part coding archive, part
 
 > Browser-based whiteboard recording for teaching, technical explanation and presentation videos.
 
-**Links:** [Live Demo](https://canvascast.nine19een.com/) · [Repository](https://github.com/nine19een/CanvasCast)  
+**Live Demo:** [canvascast.nine19een.com](https://canvascast.nine19een.com/)  
+**Repository:** [github.com/nine19een/CanvasCast](https://github.com/nine19een/CanvasCast)  
 **Stack:** `React` · `TypeScript` · `Vite` · `SVG` · `MediaRecorder API`
 
 CanvasCast combines whiteboard drawing, slide-based presentation workflow, custom recording frames, camera overlay, microphone selection, teleprompter and browser-based recording output into one lightweight web app.
