@@ -45,6 +45,27 @@ This GitHub profile is my long-term technical journal: part coding archive, part
 
 ---
 
+## 🎬 Featured Project
+
+### CanvasCast
+
+<p>
+  <a href="https://canvascast.nine19een.com/">
+    <img src="https://img.shields.io/badge/Live%20Demo-CanvasCast-43A047?style=for-the-badge&logo=vercel&logoColor=white" alt="CanvasCast Live Demo"/>
+  </a>
+  <a href="https://github.com/nine19een/CanvasCast">
+    <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="CanvasCast Repository"/>
+  </a>
+</p>
+
+A browser-based whiteboard recording app for creating teaching, explanation and presentation videos.
+
+Built with `React`, `TypeScript`, `Vite`, `SVG` and the `MediaRecorder API`.
+
+It supports whiteboard drawing, slide-based presentation workflow, custom recording frames, camera overlay, microphone selection, teleprompter and browser-based recording output.
+
+---
+
 ## 📝 Blog Highlights
 
 I write technical posts about algorithm problems I have solved, focusing not only on accepted code, but also on the thinking process, mistakes, patterns, and reusable ideas behind the solution.
