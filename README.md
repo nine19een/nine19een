@@ -121,6 +121,7 @@ This section is folded so it will not make the homepage visually overwhelming.
 
 | Date       | Contest                                                              | Type | TL        | Solved    | Rank       | Performance (New Rating & Δ)                                                               | Results                                                    |
 | :--------: | :------------------------------------------------------------------: | :--: | :-------: | :--------: | :---------: | :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------- |
+| 2025-05-09 | [AtCoder Beginner Contest 457](https://atcoder.jp/contests/abc457) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 4/7       | 3663/9773  | <b>777</b> <img src="https://img.shields.io/badge/AtCoder-%2B24-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc457/submissions/me) |
 | 2025-04-25 | [AtCoder Beginner Contest 455](https://atcoder.jp/contests/abc455) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 4/7       | 3837/10243  | <b>777</b> <img src="https://img.shields.io/badge/AtCoder-%2B24-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc455/submissions/me) |
 | 2026-04-11 | 蓝桥杯省赛（C/C++ 程序设计大学 B 组，北京赛区） | <img src="https://img.shields.io/badge/Onsite-1565C0?style=for-the-badge" alt="Onsite"> | 4h | --- | 25th, approx. top 1.4% | Provincial First Prize🥇 | --- |
 | 2025-03-28 | [AtCoder Beginner Contest 451](https://atcoder.jp/contests/abc451) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 4/7       | 3795/10775  | <b>753</b> <img src="https://img.shields.io/badge/AtCoder-%2B40-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc451/submissions/me) |
@@ -165,7 +166,7 @@ The full table is intentionally folded to keep the profile readable while preser
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Total%20Solved-416%2B-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-420%2B-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
 </p>
 
 <!-- 
@@ -180,6 +181,10 @@ Recommended:
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-05-09 | [AtCoder Beginner Contest 457 	D - Raise Minimum](https://atcoder.jp/contests/abc457/tasks/abc457_d) |   <img src="https://img.shields.io/badge/ABC%20D-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-457-D.cpp) |
+| 2026-05-09 | [AtCoder Beginner Contest 457 C - Long Sequence](https://atcoder.jp/contests/abc457/tasks/abc457_c) |  <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-457-C.cpp) |
+| 2026-05-09 | [AtCoder Beginner Contest 457 B - Arrays](https://atcoder.jp/contests/abc457/tasks/abc457_b) | <img src="https://img.shields.io/badge/ABC%20B-804000?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-457-B.cpp) |
+| 2026-05-09 | [AtCoder Beginner Contest 457 A - Array](https://atcoder.jp/contests/abc457/tasks/abc457_a) | <img src="https://img.shields.io/badge/ABC%20A-804000?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-457-A.cpp) |
 | 2026-04-26 | [AtCoder Beginner Contest 455 E - Unbalanced ABC Substrings](https://atcoder.jp/contests/abc455/tasks/abc455_e) | <img src="https://img.shields.io/badge/ABC%20E-0000FF?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-455-E.cpp) |
 | 2026-04-25 | [AtCoder Beginner Contest 455 D - Card Pile Query](https://atcoder.jp/contests/abc455/tasks/abc455_d) |   <img src="https://img.shields.io/badge/ABC%20D-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-455-D.cpp) |
 | 2026-04-25 | [AtCoder Beginner Contest 455 C - Vanish](https://atcoder.jp/contests/abc455/tasks/abc455_c) |  <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-455-C.cpp) |
