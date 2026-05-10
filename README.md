@@ -166,7 +166,7 @@ The full table is intentionally folded to keep the profile readable while preser
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Total%20Solved-420%2B-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-421%2B-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
 </p>
 
 <!-- 
@@ -181,6 +181,7 @@ Recommended:
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-05-10 | [AtCoder Beginner Contest 455 E - Crossing Table Cloth](https://atcoder.jp/contests/abc457/tasks/abc457_e) | <img src="https://img.shields.io/badge/ABC%20E-0000FF?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-457-E.cpp) |
 | 2026-05-09 | [AtCoder Beginner Contest 457 	D - Raise Minimum](https://atcoder.jp/contests/abc457/tasks/abc457_d) |   <img src="https://img.shields.io/badge/ABC%20D-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-457-D.cpp) |
 | 2026-05-09 | [AtCoder Beginner Contest 457 C - Long Sequence](https://atcoder.jp/contests/abc457/tasks/abc457_c) |  <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-457-C.cpp) |
 | 2026-05-09 | [AtCoder Beginner Contest 457 B - Arrays](https://atcoder.jp/contests/abc457/tasks/abc457_b) | <img src="https://img.shields.io/badge/ABC%20B-804000?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-457-B.cpp) |
