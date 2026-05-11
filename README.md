@@ -64,8 +64,8 @@ CanvasCast combines whiteboard drawing, slide-based presentation, custom recordi
 
 I write technical posts about algorithm problems I have solved, focusing not only on accepted code, but also on the thinking process, mistakes, patterns, and reusable ideas behind the solution.
 
-- 📑 **[蓝桥杯 2026 省赛 B 组复盘：考前状态、考场决策与赛后重做](https://www.nine19een.com/2026/05/11/lanqiao-2026-provincial-review/)**
-  A full Lanqiao Cup provincial contest postmortem, covering pre-contest preparation, in-contest decisions, post-contest re-solving, and lessons on modeling, proof, implementation, and contest strategy.
+- 📑 **[蓝桥杯 2026 省赛 B 组复盘：考前状态、考场决策与赛后重做](https://www.nine19een.com/2026/05/11/lanqiao-2026-provincial-review/)**  
+  A post-contest review of my Lanqiao Cup 2026 Provincial Round.
 
 - 📑 **[洛谷 P1637 / SPOJ SP2815 INCSEQ 复盘：长度 k 严格上升子序列的树状数组模板](https://www.nine19een.com/2025/12/11/P1637-INCSEQ-Fenwick-Tree-DP-for-Strictly-Increasing-Subsequences-of-Length-k/)**  
   Layered DP and Fenwick Tree for counting increasing subsequences.
