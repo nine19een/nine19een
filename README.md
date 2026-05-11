@@ -166,7 +166,7 @@ The full table is intentionally folded to keep the profile readable while preser
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Total%20Solved-421%2B-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-429%2B-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
 </p>
 
 <!-- 
@@ -175,12 +175,20 @@ Paste your original "My Coding Practice Log" table here.
 Recommended:
 - Keep the newest problems at the top.
 - Continue using platform + problem ID + title.
-- Keep solution links.
+- Keep solution links.S
 - You may keep difficulty badges if you like the visual style.
 -->
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-05-11 | [【蓝桥 2026 省B】 H - 足球训练](https://www.luogu.com.cn/problem/P16239)        |  <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Lanqiao-2026-provincial-H.cpp) |
+| 2026-05-11 | [【蓝桥 2026 省B】 G - 理想温度](https://www.luogu.com.cn/problem/P16238)        |  <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Lanqiao-2026-provincial-G.cpp) |
+| 2026-05-11 | [【蓝桥 2026 省B】 F - 应急布线](https://www.luogu.com.cn/problem/P16237)        |  <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Lanqiao-2026-provincial-F.cpp) |
+| 2026-05-11 | [【蓝桥 2026 省B】 E - LQ 聚合](https://www.luogu.com.cn/problem/P16236)        |  <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Lanqiao-2026-provincial-E.cpp) |
+| 2026-05-11 | [【蓝桥 2026 省B】 D - 蓝桥竞技](https://www.luogu.com.cn/problem/P16235)        |  <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Lanqiao-2026-provincial-D.cpp) |
+| 2026-05-11 | [【蓝桥 2026 省B】 C - 循环右移](https://www.luogu.com.cn/problem/P16234)        |  <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Lanqiao-2026-provincial-C.cpp) |
+| 2026-05-11 | [【蓝桥 2026 省B】 B - 双碳战略](https://www.luogu.com.cn/problem/P16233)        |  <img src="https://img.shields.io/badge/提高%2B%2F省选−-3498DB?style=for-the-badge" alt="提高+/省选−">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Lanqiao-2026-provincial-B.cpp) |
+| 2026-05-11 | [【蓝桥 2026 省B】 A - 青春常数](https://www.luogu.com.cn/problem/P16232)        |  <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Lanqiao-2026-provincial-A.cpp) |
 | 2026-05-10 | [AtCoder Beginner Contest 455 E - Crossing Table Cloth](https://atcoder.jp/contests/abc457/tasks/abc457_e) | <img src="https://img.shields.io/badge/ABC%20E-0000FF?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-457-E.cpp) |
 | 2026-05-09 | [AtCoder Beginner Contest 457 	D - Raise Minimum](https://atcoder.jp/contests/abc457/tasks/abc457_d) |   <img src="https://img.shields.io/badge/ABC%20D-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-457-D.cpp) |
 | 2026-05-09 | [AtCoder Beginner Contest 457 C - Long Sequence](https://atcoder.jp/contests/abc457/tasks/abc457_c) |  <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-457-C.cpp) |
