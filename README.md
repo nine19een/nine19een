@@ -11,9 +11,6 @@
   <a href="mailto:nine19eenowo@gmail.com">
     <img src="https://img.shields.io/badge/Email-nine19eenowo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/nine19een/Coding-Practice">
-    <img src="https://img.shields.io/badge/Coding%20Practice-416%2B%20Solved-282A36?style=for-the-badge&logo=github&logoColor=white" alt="Coding Practice"/>
-  </a>
 </p>
 
 </div>
@@ -88,7 +85,7 @@ I write technical posts about algorithm problems I have solved, focusing not onl
 I use competitive programming as my main way to train algorithmic thinking, coding stability and problem decomposition.
 
 <p>
-  <img src="https://img.shields.io/badge/Total%20Solved-416%2B-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-400%2B-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
   <img src="https://img.shields.io/badge/Main%20Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Platforms-Luogu%20%7C%20AtCoder%20%7C%20Codeforces-00C0C0?style=for-the-badge" alt="Platforms"/>
 </p>
@@ -164,12 +161,12 @@ This is the archive of my daily problem-solving practice.
 The full table is intentionally folded to keep the profile readable while preserving the complete record.
 
 <details>
-<summary><strong>🚀 Full Coding Practice Log — 416+ solved</strong></summary>
+<summary><strong>🚀 Full Coding Practice Log</strong></summary>
 
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Total%20Solved-429%2B-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-429-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
 </p>
 
 <!-- 
@@ -204,7 +201,7 @@ Recommended:
 | 2026-04-25 | [AtCoder Beginner Contest 455 A - 455](https://atcoder.jp/contests/abc455/tasks/abc455_a) | <img src="https://img.shields.io/badge/ABC%20A-804000?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-455-A.cpp) |
 | 2026-04-09 | [洛谷 P4779 单源最短路径（标准版）](https://www.luogu.com.cn/problem/P4779)                 | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">           | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P4779.cpp) / [View Code (C++) rewrite](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P4779(re).cpp) |
 | 2026-04-09 | [洛谷 P1182 数列分段 Section II](https://www.luogu.com.cn/problem/P1182)        |  <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1182.cpp)  |
-| 2026-04-09 | [洛谷 P1451 求细胞数量](https://www.luogu.com.cn/problem/P1182)        |  <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">   | [View Code (C++) DFS](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1451(dfs).cpp) / [View Code (C++) BFS](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1451(bfs).cpp) |
+| 2026-04-09 | [洛谷 P1451 求细胞数量](https://www.luogu.com.cn/problem/P1451)        |  <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">   | [View Code (C++) DFS](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1451(dfs).cpp) / [View Code (C++) BFS](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1451(bfs).cpp) |
 | 2026-03-28 | [AtCoder Beginner Contest 451 D - Concat Power of 2](https://atcoder.jp/contests/abc451/tasks/abc451_d) | <img src="https://img.shields.io/badge/ABC%20D-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-451-D.cpp) |
 | 2026-03-28 | [AtCoder Beginner Contest 451 C - Understory](https://atcoder.jp/contests/abc451/tasks/abc451_c) | <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-451-C.cpp) |
 | 2026-03-28 | [AtCoder Beginner Contest 451 B - Personnel Change](https://atcoder.jp/contests/abc451/tasks/abc451_b) | <img src="https://img.shields.io/badge/ABC%20B-804000?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-451-B.cpp) |
