@@ -166,7 +166,7 @@ The full table is intentionally folded to keep the profile readable while preser
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Total%20Solved-429-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-430-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
 </p>
 
 <!-- 
@@ -181,6 +181,7 @@ Recommended:
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-05-14 | [洛谷 P1009 阶乘之和](https://www.luogu.com.cn/problem/P2895)        | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1009.cpp) |
 | 2026-05-11 | [【蓝桥 2026 省B】 H - 足球训练](https://www.luogu.com.cn/problem/P16239)        |  <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Lanqiao-2026-provincial-H.cpp) |
 | 2026-05-11 | [【蓝桥 2026 省B】 G - 理想温度](https://www.luogu.com.cn/problem/P16238)        |  <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Lanqiao-2026-provincial-G.cpp) |
 | 2026-05-11 | [【蓝桥 2026 省B】 F - 应急布线](https://www.luogu.com.cn/problem/P16237)        |  <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Lanqiao-2026-provincial-F.cpp) |
