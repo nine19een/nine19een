@@ -167,7 +167,7 @@ The full table is intentionally folded to keep the profile readable while preser
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Total%20Solved-450-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-454-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
 </p>
 
 <!-- 
@@ -182,6 +182,10 @@ Recommended:
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-05-17 | [洛谷 P4071 排列计数](https://www.luogu.com.cn/problem/P4071)        | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P4071.cpp) |
+| 2026-05-17 | [洛谷 P2265 路边的水沟](https://www.luogu.com.cn/problem/P2265)        | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2265.cpp) |
+| 2026-05-17 | [洛谷 B3717 组合数问题](https://www.luogu.com.cn/problem/B3717)        | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B3717.cpp) |
+| 2026-05-17 | [洛谷 B2164 组合数问题](https://www.luogu.com.cn/problem/B2164)        | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B2164.cpp) |
 | 2026-05-16 | [AtCoder Beginner Contest 458 E - Count 123](https://atcoder.jp/contests/abc458/tasks/abc458_e) | <img src="https://img.shields.io/badge/ABC%20E-0000FF?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-458-E.cpp) |
 | 2026-05-16 | [AtCoder Beginner Contest 458 D - Chalkboard Median](https://atcoder.jp/contests/abc458/tasks/abc458_d) |   <img src="https://img.shields.io/badge/ABC%20D-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-458-D.cpp) |
 | 2026-05-16 | [AtCoder Beginner Contest 458 C - C Stands for Center](https://atcoder.jp/contests/abc458/tasks/abc458_c) |  <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-458-C.cpp) |
