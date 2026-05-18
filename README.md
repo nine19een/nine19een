@@ -167,7 +167,7 @@ The full table is intentionally folded to keep the profile readable while preser
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Total%20Solved-454-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-459-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
 </p>
 
 <!-- 
@@ -182,6 +182,11 @@ Recommended:
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-05-18 | [洛谷 P1754 球迷购票问题](https://www.luogu.com.cn/problem/P1754)        | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1754.cpp) |
+| 2026-05-18 | [洛谷 P1641 生成字符串](https://www.luogu.com.cn/problem/P1641)        | <img src="https://img.shields.io/badge/提高%2B%2F省选−-3498DB?style=for-the-badge" alt="提高+/省选−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1641.cpp) |
+| 2026-05-18 | [洛谷 P1313 计算系数](https://www.luogu.com.cn/problem/P1313)        | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1313.cpp) |
+| 2026-05-18 | [洛谷 P3811 模意义下的乘法逆元](https://www.luogu.com.cn/problem/P3811)        | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P3811.cpp) |
+| 2026-05-18 | [洛谷 P1595 信封问题](https://www.luogu.com.cn/problem/P1595)        | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1595.cpp) |
 | 2026-05-17 | [洛谷 P4071 排列计数](https://www.luogu.com.cn/problem/P4071)        | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P4071.cpp) |
 | 2026-05-17 | [洛谷 P2265 路边的水沟](https://www.luogu.com.cn/problem/P2265)        | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P2265.cpp) |
 | 2026-05-17 | [洛谷 B3717 组合数问题](https://www.luogu.com.cn/problem/B3717)        | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-B3717.cpp) |
