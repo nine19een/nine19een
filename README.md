@@ -49,7 +49,7 @@ This GitHub profile is my long-term technical journal: part coding archive, part
 > Browser-based real-time 3D rendering and hand gesture recognition for an immersive, photo-integrated holiday experience.
 
 **Live Demo:** [christmas-tree-phi-seven.vercel.app](https://christmas-tree-phi-seven.vercel.app/)  
-**Repository:** [github.com/your-username/gesture-christmas-tree](https://github.com/your-username/gesture-christmas-tree)  
+**Repository:** [github.com/your-username/gesture-christmas-tree](https://github.com/nine19een/christmas-tree)  
 **Demo Video:** [Watch on Bilibili](https://www.bilibili.com/video/BV1XALD6TETr/)  
 **Stack:** `React` · `TypeScript` · `Three.js` · `@mediapipe/hands` · `Zustand`
 
