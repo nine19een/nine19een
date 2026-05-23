@@ -132,6 +132,7 @@ This section is folded so it will not make the homepage visually overwhelming.
 
 | Date       | Contest                                                              | Type | TL        | Solved    | Rank       | Performance (New Rating & Δ)                                                               | Results                                                    |
 | :--------: | :------------------------------------------------------------------: | :--: | :-------: | :--------: | :---------: | :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------- |
+| 2025-05-23 | [AtCoder Beginner Contest 459](https://atcoder.jp/contests/abc459) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 4/7       | 3449/11101  | <b>911</b> <img src="https://img.shields.io/badge/AtCoder-%2B21-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc459/submissions/me) |
 | 2025-05-16 | [AtCoder Beginner Contest 458](https://atcoder.jp/contests/abc458) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 5/7       | 1887/11082  | <b>890</b> <img src="https://img.shields.io/badge/AtCoder-%2B88-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc458/submissions/me) |
 | 2025-05-09 | [AtCoder Beginner Contest 457](https://atcoder.jp/contests/abc457) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 4/7       | 3663/9773  | <b>802</b> <img src="https://img.shields.io/badge/AtCoder-%2B25-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc457/submissions/me) |
 | 2025-04-25 | [AtCoder Beginner Contest 455](https://atcoder.jp/contests/abc455) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 4/7       | 3837/10243  | <b>777</b> <img src="https://img.shields.io/badge/AtCoder-%2B24-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc455/submissions/me) |
@@ -178,7 +179,7 @@ The full table is intentionally folded to keep the profile readable while preser
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Total%20Solved-459-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-463-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
 </p>
 
 <!-- 
@@ -193,6 +194,10 @@ Recommended:
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-05-23 | [AtCoder Beginner Contest 459 D - Adjacent Distinct String](https://atcoder.jp/contests/abc459/tasks/abc459_d) |   <img src="https://img.shields.io/badge/ABC%20D-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-459-D.cpp) |
+| 2026-05-23 | [AtCoder Beginner Contest 459 C - Drop Blocks](https://atcoder.jp/contests/abc459/tasks/abc459_c) |  <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-459-C.cpp) |
+| 2026-05-23 | [AtCoder Beginner Contest 459 B - 459](https://atcoder.jp/contests/abc459/tasks/abc459_b) | <img src="https://img.shields.io/badge/ABC%20B-804000?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-459-B.cpp) |
+| 2026-05-23 | [AtCoder Beginner Contest 459 A - Hell, World!](https://atcoder.jp/contests/abc459/tasks/abc459_a) | <img src="https://img.shields.io/badge/ABC%20A-804000?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-459-A.cpp) |
 | 2026-05-18 | [洛谷 P1754 球迷购票问题](https://www.luogu.com.cn/problem/P1754)        | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1754.cpp) |
 | 2026-05-18 | [洛谷 P1641 生成字符串](https://www.luogu.com.cn/problem/P1641)        | <img src="https://img.shields.io/badge/提高%2B%2F省选−-3498DB?style=for-the-badge" alt="提高+/省选−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1641.cpp) |
 | 2026-05-18 | [洛谷 P1313 计算系数](https://www.luogu.com.cn/problem/P1313)        | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1313.cpp) |
