@@ -75,6 +75,9 @@ I write technical posts about algorithm problems I have solved, focusing not onl
 - 📑 **[蓝桥杯 2026 省赛 B 组复盘：考前状态、考场决策与赛后重做](https://www.nine19een.com/2026/05/11/lanqiao-2026-provincial-review/)**  
   A post-contest review of my Lanqiao Cup 2026 Provincial Round.
 
+- 📑 **[组合数学专题总结](https://www.nine19een.com/2026/05/19/combinatorics-summary/)**  
+  Modular inverse recurrence, factorial precomputation, derangements, binomial coefficients, and Catalan numbers via the reflection method.  
+
 - 📑 **[洛谷 P1637 / SPOJ SP2815 INCSEQ 复盘：长度 k 严格上升子序列的树状数组模板](https://www.nine19een.com/2025/12/11/P1637-INCSEQ-Fenwick-Tree-DP-for-Strictly-Increasing-Subsequences-of-Length-k/)**  
   Layered DP and Fenwick Tree for counting increasing subsequences.
 
