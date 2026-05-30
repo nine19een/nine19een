@@ -182,7 +182,7 @@ The full table is intentionally folded to keep the profile readable while preser
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Total%20Solved-466-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-469-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
 </p>
 
 <!-- 
@@ -197,6 +197,9 @@ Recommended:
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-05-30 | [AtCoder Beginner Contest 460 C - Sushi](https://atcoder.jp/contests/abc460/tasks/abc460_c) |  <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-460-C.cpp) |
+| 2026-05-30 | [AtCoder Beginner Contest 460 B - Two Rings](https://atcoder.jp/contests/abc460/tasks/abc460_b) | <img src="https://img.shields.io/badge/ABC%20B-804000?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-460-B.cpp) |
+| 2026-05-30 | [AtCoder Beginner Contest 460 A - Mod While Positive](https://atcoder.jp/contests/abc460/tasks/abc460_a) | <img src="https://img.shields.io/badge/ABC%20A-804000?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-460-A.cpp) |
 | 2026-05-24 | [AtCoder Beginner Contest 459 	E - Select from Subtrees](https://atcoder.jp/contests/abc459/tasks/abc459_e) |   <img src="https://img.shields.io/badge/ABC%20E-0000FF?style=for-the-badge&logo=atcoder&logoColor=white"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-459-E.cpp) |
 | 2026-05-23 | [AtCoder Beginner Contest 459 D - Adjacent Distinct String](https://atcoder.jp/contests/abc459/tasks/abc459_d) |   <img src="https://img.shields.io/badge/ABC%20D-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-459-D.cpp) |
 | 2026-05-23 | [AtCoder Beginner Contest 459 C - Drop Blocks](https://atcoder.jp/contests/abc459/tasks/abc459_c) |  <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-459-C.cpp) |
