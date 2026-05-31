@@ -66,6 +66,15 @@ Gesture 3D Christmas Tree combines real-time 3D particle rendering, AI-powered h
 
 CanvasCast combines whiteboard drawing, slide-based presentation, custom recording frames, camera overlay, microphone selection, teleprompter and browser-based recording output into one lightweight web app.
 
+### ▸ Lecture Video Handout Workflow
+
+> Video-only workflow for generating grounded lecture handouts from public course videos.
+
+**Repository:** [github.com/nine19een/lecture-video-handout-workflow](https://github.com/nine19een/lecture-video-handout-workflow)  
+**Stack:** `Python` · `yt-dlp` · `FFmpeg` · `Pillow` · `PyYAML` · `faster-whisper` · `Markdown/JSONL`  
+
+Lecture Video Handout Workflow turns public lecture videos into traceable artifacts and learner-facing Chinese handouts through an agent-assisted workflow, emphasizing validation over black-box summarization.
+
 ---
 
 ## 📝 Blog Highlights
