@@ -192,7 +192,7 @@ The full table is intentionally folded to keep the profile readable while preser
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Total%20Solved-469-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-471-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
 </p>
 
 <!-- 
@@ -207,6 +207,8 @@ Recommended:
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-06-04 | [洛谷 P12835 蓝桥星数字](https://www.luogu.com.cn/problem/P12835)        | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P12835.cpp) |
+| 2026-06-04 | [洛谷 P12834 项链排列](https://www.luogu.com.cn/problem/P12834)        | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P12834.cpp) |
 | 2026-05-30 | [AtCoder Beginner Contest 460 C - Sushi](https://atcoder.jp/contests/abc460/tasks/abc460_c) |  <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-460-C.cpp) |
 | 2026-05-30 | [AtCoder Beginner Contest 460 B - Two Rings](https://atcoder.jp/contests/abc460/tasks/abc460_b) | <img src="https://img.shields.io/badge/ABC%20B-804000?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-460-B.cpp) |
 | 2026-05-30 | [AtCoder Beginner Contest 460 A - Mod While Positive](https://atcoder.jp/contests/abc460/tasks/abc460_a) | <img src="https://img.shields.io/badge/ABC%20A-804000?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-460-A.cpp) |
