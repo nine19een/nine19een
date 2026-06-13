@@ -117,6 +117,9 @@ I use competitive programming as my main way to train algorithmic thinking, codi
 
 ## 🏆 Honors & Awards
 
+- 🥉 **Lanqiao Cup National Third Prize, 2026**  
+  蓝桥杯全国总决赛三等奖 · C/C++ 程序设计大学 B 组
+
 - 🥇 **Lanqiao Cup Provincial First Prize, 2026**  
   蓝桥杯省赛一等奖 · C/C++ 程序设计大学 B 组 · 北京赛区  
   Ranked **25th** in Beijing Division, approximately **top 1.4%** based on 179 first-prize winners.
@@ -144,6 +147,8 @@ This section is folded so it will not make the homepage visually overwhelming.
 
 | Date       | Contest                                                              | Type | TL        | Solved    | Rank       | Performance (New Rating & Δ)                                                               | Results                                                    |
 | :--------: | :------------------------------------------------------------------: | :--: | :-------: | :--------: | :---------: | :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------- |
+| 2025-06-13 | [AtCoder Beginner Contest 462](https://atcoder.jp/contests/abc462) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 4/7       | 4378/10763	  | <b>916</b> <img src="https://img.shields.io/badge/AtCoder-%2B0-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc462/submissions/me) |
+| 2026-06-06 | 蓝桥杯全国总决赛（C/C++ 程序设计大学 B 组） | <img src="https://img.shields.io/badge/Onsite-1565C0?style=for-the-badge" alt="Onsite"> | 4h | --- | --- | National Third Prize🥉 | --- |
 | 2025-05-30 | [AtCoder Beginner Contest 460](https://atcoder.jp/contests/abc460) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 3/7       | 4361/11116  | <b>916</b> <img src="https://img.shields.io/badge/AtCoder-%2B5-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc460/submissions/me) |
 | 2025-05-23 | [AtCoder Beginner Contest 459](https://atcoder.jp/contests/abc459) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 4/7       | 3449/11101  | <b>911</b> <img src="https://img.shields.io/badge/AtCoder-%2B21-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc459/submissions/me) |
 | 2025-05-16 | [AtCoder Beginner Contest 458](https://atcoder.jp/contests/abc458) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 5/7       | 1887/11082  | <b>890</b> <img src="https://img.shields.io/badge/AtCoder-%2B88-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc458/submissions/me) |
@@ -192,7 +197,7 @@ The full table is intentionally folded to keep the profile readable while preser
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Total%20Solved-471-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-475-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
 </p>
 
 <!-- 
@@ -207,6 +212,10 @@ Recommended:
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-06-13 | [AtCoder Beginner Contest 462 D - Accomplice](https://atcoder.jp/contests/abc462/tasks/abc462_d) |   <img src="https://img.shields.io/badge/ABC%20D-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-462-D.cpp) |
+| 2026-06-13 | [AtCoder Beginner Contest 462 C - Not Covered Points](https://atcoder.jp/contests/abc462/tasks/abc462_c) |  <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-462-C.cpp) |
+| 2026-06-13 | [AtCoder Beginner Contest 462 B - Gift](https://atcoder.jp/contests/abc462/tasks/abc462_b) | <img src="https://img.shields.io/badge/ABC%20B-804000?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-462-B.cpp) |
+| 2026-06-13 | [AtCoder Beginner Contest 462 A - Secret Numbers](https://atcoder.jp/contests/abc462/tasks/abc462_a) | <img src="https://img.shields.io/badge/ABC%20A-804000?style=for-the-badge&logo=atcoder&logoColor=white">   | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-462-A.cpp) |
 | 2026-06-04 | [洛谷 P12835 蓝桥星数字](https://www.luogu.com.cn/problem/P12835)        | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P12835.cpp) |
 | 2026-06-04 | [洛谷 P12834 项链排列](https://www.luogu.com.cn/problem/P12834)        | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P12834.cpp) |
 | 2026-05-30 | [AtCoder Beginner Contest 460 C - Sushi](https://atcoder.jp/contests/abc460/tasks/abc460_c) |  <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-460-C.cpp) |
