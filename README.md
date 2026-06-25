@@ -75,6 +75,16 @@ CanvasCast combines whiteboard drawing, slide-based presentation, custom recordi
 
 Lecture Video Handout Workflow turns public lecture videos into traceable artifacts and learner-facing Chinese handouts through an agent-assisted workflow, emphasizing validation over black-box summarization.
 
+### ▸ Sorting Algorithm Visualizer
+
+> Desktop application for visualizing classic sorting algorithms and comparing their performance.
+
+**Repository:** [github.com/nine19een/sorting-algorithm-visualizer](https://github.com/nine19een/sorting-algorithm-visualizer)
+**Stack:** `Python` · `Tkinter` · `Matplotlib`
+
+Supports animated execution of five sorting algorithms, operation statistics, pause and reset controls, and performance comparison through tables and bar charts.
+
+
 ---
 
 ## 📝 Blog Highlights
