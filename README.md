@@ -79,7 +79,7 @@ Lecture Video Handout Workflow turns public lecture videos into traceable artifa
 
 > Desktop application for visualizing classic sorting algorithms and comparing their performance.
 
-**Repository:** [github.com/nine19een/sorting-algorithm-visualizer](https://github.com/nine19een/sorting-algorithm-visualizer)
+**Repository:** [github.com/nine19een/sorting-algorithm-visualizer](https://github.com/nine19een/sorting-algorithm-visualizer)  
 **Stack:** `Python` · `Tkinter` · `Matplotlib`
 
 Supports animated execution of five sorting algorithms, operation statistics, pause and reset controls, and performance comparison through tables and bar charts.
