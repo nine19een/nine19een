@@ -25,7 +25,7 @@ I'm a freshman majoring in Computer Science, currently growing along two main tr
   I use problem solving as my main training ground, focusing on C++, data structures, dynamic programming, graph algorithms, search, greedy methods, and implementation skills.
 
 - **AI-assisted Software Building**  
-  I am also exploring how to turn ideas into usable projects with modern web technologies and AI coding tools, especially through small front-end experiments built with React and TypeScript.
+  I am also exploring how to turn ideas into usable projects with modern web technologies and AI coding tools, especially through building usable software with AI-assisted workflows.
 
 This GitHub profile is my long-term technical journal: part coding archive, part blog index, part record of how I grow from solving problems to building real things.
 
