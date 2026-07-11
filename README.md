@@ -157,6 +157,7 @@ This section is folded so it will not make the homepage visually overwhelming.
 
 | Date       | Contest                                                              | Type | TL        | Solved    | Rank       | Performance (New Rating & Δ)                                                               | Results                                                    |
 | :--------: | :------------------------------------------------------------------: | :--: | :-------: | :--------: | :---------: | :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------- |
+| 2026-07-11 | [2021 CCPC Online Re](https://vjudge.net/contest/461816) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 5h  | 2/12(personal) | ---	  | --- | [View Submissions](https://vjudge.net/contest/829944#status) |
 | 2026-06-27 | [AtCoder Beginner Contest 464](https://atcoder.jp/contests/abc464) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 4/7       | 4216/9426	  | <b>913</b> <img src="https://img.shields.io/badge/AtCoder---9-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc464/submissions/me) |
 | 2026-06-20 | [AtCoder Beginner Contest 463](https://atcoder.jp/contests/abc463) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 4/7       | 4144/10601	  | <b>922</b> <img src="https://img.shields.io/badge/AtCoder-%2B6-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc463/submissions/me) |
 | 2026-06-13 | [AtCoder Beginner Contest 462](https://atcoder.jp/contests/abc462) | <img src="https://img.shields.io/badge/Live-red?style=for-the-badge"> | 1h 40min  | 4/7       | 4378/10763	  | <b>916</b> <img src="https://img.shields.io/badge/AtCoder-%2B0-00C0C0?style=flat-square&logo=atcoder&logoColor=white"> | [View Submissions](https://atcoder.jp/contests/abc462/submissions/me) |
@@ -209,7 +210,7 @@ The full table is intentionally folded to keep the profile readable while preser
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Total%20Solved-480-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-482-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
 </p>
 
 <!-- 
@@ -224,6 +225,8 @@ Recommended:
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-07-11 | [2021 CCPC 网络选拔赛 H - Subpermutation](https://vjudge.net/problem/HDU-7133)        | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/2021-CCPC-Online-H.cpp) |
+| 2026-07-11 | [2021 CCPC 网络选拔赛 E - Monopoly](https://vjudge.net/problem/HDU-7130)        | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/2021-CCPC-Online-E.cpp) |
 | 2026-06-27 | [AtCoder Beginner Contest 464 E - Fill-Rect Query](https://atcoder.jp/contests/abc464/tasks/abc464_e) |   <img src="https://img.shields.io/badge/ABC%20E-0000FF?style=for-the-badge&logo=atcoder&logoColor=white"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-464-E.cpp) |
 | 2026-06-27 | [AtCoder Beginner Contest 464 D - Celester](https://atcoder.jp/contests/abc464/tasks/abc464_d) |   <img src="https://img.shields.io/badge/ABC%20D-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-464-D.cpp) |
 | 2026-06-27 | [AtCoder Beginner Contest 464 	C - Plumage Palette](https://atcoder.jp/contests/abc464/tasks/abc464_c) |  <img src="https://img.shields.io/badge/ABC%20C-00C0C0?style=for-the-badge&logo=atcoder&logoColor=white">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-464-C.cpp) |
