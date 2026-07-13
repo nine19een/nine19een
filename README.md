@@ -210,7 +210,7 @@ The full table is intentionally folded to keep the profile readable while preser
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Total%20Solved-482-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
+  <img src="https://img.shields.io/badge/Total%20Solved-483-282A36?style=for-the-badge&logoColor=white" alt="Total Solved"/>
 </p>
 
 <!-- 
@@ -225,6 +225,7 @@ Recommended:
 
 | Date       | Problem                                                                  | Difficulty                                                                                                   | Solution                                                                                                   |
 | :--------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| 2026-07-14 | [2021 CCPC 网络选拔赛 F - Nun Heh Heh Aaaaaaaaaaa](https://vjudge.net/problem/HDU-7131)        | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge&textColor=white" alt="普及/提高−">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/2021-CCPC-Online-F.cpp) |
 | 2026-07-11 | [2021 CCPC 网络选拔赛 H - Subpermutation](https://vjudge.net/problem/HDU-7133)        | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/2021-CCPC-Online-H.cpp) |
 | 2026-07-11 | [2021 CCPC 网络选拔赛 E - Monopoly](https://vjudge.net/problem/HDU-7130)        | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/2021-CCPC-Online-E.cpp) |
 | 2026-06-27 | [AtCoder Beginner Contest 464 E - Fill-Rect Query](https://atcoder.jp/contests/abc464/tasks/abc464_e) |   <img src="https://img.shields.io/badge/ABC%20E-0000FF?style=for-the-badge&logo=atcoder&logoColor=white"> | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/AtCoder-Beginner-Contest-464-E.cpp) |
