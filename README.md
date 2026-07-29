@@ -84,6 +84,14 @@ Lecture Video Handout Workflow turns public lecture videos into traceable artifa
 
 Supports animated execution of five sorting algorithms, operation statistics, pause and reset controls, and performance comparison through tables and bar charts.
 
+### ▸ Arsenal Transfer Alert
+
+> Always-on Arsenal transfer monitoring and Chinese notification service powered by official APIs.
+
+**Repository:** [github.com/nine19een/arsenal-transfer-alert](https://github.com/nine19een/arsenal-transfer-alert)  
+**Stack:** `Python` · `SQLite` · `Docker` · `X API` · `DeepSeek API` · `Bark`
+
+Monitors verified Tier 0–2 sources, filters irrelevant or second-hand reports, translates qualified transfer updates into Chinese, and delivers reliable iPhone notifications through Bark.
 
 ---
 
