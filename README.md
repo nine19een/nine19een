@@ -5,8 +5,8 @@
 ### CS Freshman · Competitive Programming · AI-assisted Builder
 
 <p>
-  <a href="https://nine19een.com">
-    <img src="https://img.shields.io/badge/Blog-nine19een.com-43A047?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/>
+  <a href="https://blog.nine19een.com/">
+    <img src="https://img.shields.io/badge/Blog-blog.nine19een.com-43A047?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/>
   </a>
   <a href="mailto:nine19eenowo@gmail.com">
     <img src="https://img.shields.io/badge/Email-nine19eenowo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -48,7 +48,7 @@ This GitHub profile is my long-term technical journal: part coding archive, part
 
 > Browser-based real-time 3D rendering and hand gesture recognition for an immersive, photo-integrated holiday experience.
 
-**Live Demo:** [christmas-tree-phi-seven.vercel.app](https://christmas-tree-phi-seven.vercel.app/)  
+**Live Demo:** [christmas-tree.nine19een.com](https://christmas-tree.nine19een.com/)  
 **Repository:** [github.com/your-username/gesture-christmas-tree](https://github.com/nine19een/christmas-tree)  
 **Demo Video:** [Watch on Bilibili](https://www.bilibili.com/video/BV1XALD6TETr/)  
 **Stack:** `React` · `TypeScript` · `Three.js` · `@mediapipe/hands` · `Zustand`
@@ -99,25 +99,25 @@ Monitors verified Tier 0–2 sources, filters irrelevant or second-hand reports,
 
 I write technical posts about algorithm problems I have solved, focusing not only on accepted code, but also on the thinking process, mistakes, patterns, and reusable ideas behind the solution.
 
-- 📑 **[蓝桥杯 2026 省赛 B 组复盘：考前状态、考场决策与赛后重做](https://www.nine19een.com/2026/05/11/lanqiao-2026-provincial-review/)**  
+- 📑 **[蓝桥杯 2026 省赛 B 组复盘：考前状态、考场决策与赛后重做](https://blog.nine19een.com/2026/05/12/lanqiao-2026-provincial-review/)**  
   A post-contest review of my Lanqiao Cup 2026 Provincial Round.
 
-- 📑 **[组合数学专题总结](https://www.nine19een.com/2026/05/19/combinatorics-summary/)**  
+- 📑 **[组合数学专题总结](https://blog.nine19een.com/2026/05/19/combinatorics-summary/)**  
   Modular inverse recurrence, factorial precomputation, derangements, binomial coefficients, and Catalan numbers via the reflection method.  
 
-- 📑 **[洛谷 P1637 / SPOJ SP2815 INCSEQ 复盘：长度 k 严格上升子序列的树状数组模板](https://www.nine19een.com/2025/12/11/P1637-INCSEQ-Fenwick-Tree-DP-for-Strictly-Increasing-Subsequences-of-Length-k/)**  
+- 📑 **[洛谷 P1637 / SPOJ SP2815 INCSEQ 复盘：长度 k 严格上升子序列的树状数组模板](https://blog.nine19een.com/2025/12/11/P1637-INCSEQ-Fenwick-Tree-DP-for-Strictly-Increasing-Subsequences-of-Length-k/)**  
   Layered DP and Fenwick Tree for counting increasing subsequences.
 
-- 📑 **[Codeforces 1065-C1/C2 复盘：XOR 博弈与最高有效位](https://www.nine19een.com/2025/11/21/cf1065-xor/)**  
+- 📑 **[Codeforces 1065-C1/C2 复盘：XOR 博弈与最高有效位](https://blog.nine19een.com/2025/11/21/cf1065-xor/)**  
   XOR games and the role of the most significant bit.
 
-- 📑 **[洛谷 P1133 复盘：从线性 DP 到破环成链](https://www.nine19een.com/2025/10/24/Luogu-P1133-FlowerGardenDP/)**  
+- 📑 **[洛谷 P1133 复盘：从线性 DP 到破环成链](https://blog.nine19een.com/2025/10/25/Luogu-P1133-FlowerGardenDP/)**  
   From flawed linear DP to standard ring-to-chain DP.
 
-- 📑 **[AtCoder ABC455-E 复盘：前缀差值统计与三集合容斥](https://www.nine19een.com/2026/04/26/abc455-e-prefix-difference-inclusion-exclusion-review/)**  
+- 📑 **[AtCoder ABC455-E 复盘：前缀差值统计与三集合容斥](https://blog.nine19een.com/2026/04/26/abc455-e-prefix-difference-inclusion-exclusion-review/)**  
   Prefix-difference states and inclusion-exclusion for substring counting.
 
-➡️ **[Read more on my blog](https://nine19een.com/archives)**
+➡️ **[Read more on my blog](https://blog.nine19een.com/archives/)**
 
 ---
 
@@ -590,7 +590,7 @@ Recommended:
 | 2025-10-14 | [洛谷 P1088 火星人](https://www.luogu.com.cn/problem/P1088) | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">                                 | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1088.cpp)|
 | 2025-10-13 | [洛谷 P1706 全排列问题](https://www.luogu.com.cn/problem/P1706) | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">                                 | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1706.cpp)|
 | 2025-10-13 | [洛谷 P1162 填涂颜色](https://www.luogu.com.cn/problem/P1162) | <img src="https://img.shields.io/badge/普及−-F39C11?style=for-the-badge&textColor=white" alt="普及−">                                 | [View Code (C++) 由内向外BFS](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1162(From-Inside-To-Outside).cpp) / [View Code (C++) 由外向内BFS](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1162(From-Outside-To-Inside).cpp)|
-| 2025-10-11 | [逆序k倍对](https://www.nine19een.com/2025/10/13/K-InversePairs/) | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">                                 | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/K-InversePairs.cpp) |
+| 2025-10-11 | [逆序k倍对](https://blog.nine19een.com/2025/10/13/K-InversePairs/) | <img src="https://img.shields.io/badge/普及%2B%2F提高-52C41A?style=for-the-badge" alt="普及+/提高">                                 | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/K-InversePairs.cpp) |
 | 2025-10-11 | [Codeforces 1057 C. Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C) | <img src="https://img.shields.io/badge/Div.2%20C-03A89E?style=for-the-badge">                                 | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1057-C.cpp) |
 | 2025-10-10 | [Codeforces 1057 B. Bitwise Reversion](https://codeforces.com/contest/2153/problem/B) | <img src="https://img.shields.io/badge/Div.2%20B-008000?style=for-the-badge">                                 | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1057-B.cpp) |
 | 2025-10-10 | [Codeforces 1057 A. Circle of Apple Trees](https://codeforces.com/contest/2153/problem/A) | <img src="https://img.shields.io/badge/Div.2%20A-008000?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1057-A.cpp) |
@@ -599,7 +599,7 @@ Recommended:
 | 2025-10-10 | [蓝桥新生赛 蚀光之刃](https://www.lanqiao.cn/problems/21027/learning/?contest_id=262)               | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Lanqiao-Freshman-Competition-3.cpp) |
 | 2025-10-10 | [蓝桥新生赛 加工等级之和](https://www.lanqiao.cn/problems/21026/learning/?contest_id=262)               | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Lanqiao-Freshman-Competition-2.cpp) |
 | 2025-10-10 | [蓝桥新生赛 对角线上的最值](https://www.lanqiao.cn/problems/21025/learning/?contest_id=262)               | <img src="https://img.shields.io/badge/入门-FE4C61?style=for-the-badge&textColor=white" alt="入门">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Lanqiao-Freshman-Competition-1.cpp) |
-| 2025-10-06 | [丁香花分形](https://www.nine19een.com/2025/10/12/LilacFractal/)              | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/LilacFractal.cpp)|
+| 2025-10-06 | [丁香花分形](https://blog.nine19een.com/2025/10/12/LilacFractal/)              | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−">             | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/LilacFractal.cpp)|
 | 2025-10-05 | [洛谷 P1012 拼数](https://www.luogu.com.cn/problem/P1012)                 | <img src="https://img.shields.io/badge/普及%2F提高−-FFC116?style=for-the-badge" alt="普及/提高−">             | [View Code (C++) 手写冒泡排序](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1012(BubbleSort).cpp) / [View Code (C++) 自定义sort比较规则](https://github.com/nine19een/Coding-Practice/blob/main/Luogu-P1012(Sort).cpp)|
 | 2025-10-05 | [Codeforces 1054 D. A and B](https://codeforces.com/contest/2149/problem/D) | <img src="https://img.shields.io/badge/Div.3%20D-03A89E?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1054-D.cpp) |
 | 2025-10-03 | [Codeforces 1054 C. MEX rose](https://codeforces.com/contest/2149/problem/C) | <img src="https://img.shields.io/badge/Div.3%20C-008000?style=for-the-badge">                                  | [View Code (C++)](https://github.com/nine19een/Coding-Practice/blob/main/Codeforces-Round-1054-C.cpp) |
@@ -795,7 +795,7 @@ Recommended:
 
 ## 📫 Contact
 
-- Blog: [nine19een.com](https://nine19een.com)
+- Blog: [blog.nine19een.com](https://blog.nine19een.com/)
 - Email: [nine19eenowo@gmail.com](mailto:nine19eenowo@gmail.com)
 
 ---
