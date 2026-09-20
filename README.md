@@ -29,4 +29,4 @@ More projects on [my website](https://nine19een.com/projects/).
 
 I practice competitive programming in C++. In the 2026 Lanqiao Cup (C/C++, University Group B), I received a third prize at the national finals and a first prize in the Beijing division.
 
-[Coding-Practice](https://github.com/nine19een/Coding-Practice) · [Practice history](https://github.com/nine19een/nine19een/blob/main/archive/coding-practice-log.md) · [Contest history](https://github.com/nine19een/nine19een/blob/main/archive/contest-history.md)
+[Coding-Practice](https://github.com/nine19een/Coding-Practice) · [Practice history](https://github.com/nine19een/Coding-Practice/blob/main/docs/history/practice.md) · [Contest history](https://github.com/nine19een/Coding-Practice/blob/main/docs/history/contests.md)
