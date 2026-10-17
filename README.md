@@ -1,32 +1,44 @@
-# <img src="./assets/19.svg" width="32" height="32" alt="19 mark"> nine19een
+[中文](README.zh-CN.md) / **ENG**
 
-I'm a computer science undergraduate exploring AI agents and building practical software with AI coding tools. I also lead my university's competitive programming team.
+# <img src="./assets/19.svg" width="36" height="36" alt="19 mark"> nine19een
 
-[Website](https://nine19een.com/) · [Writing](https://nine19een.com/writing/) · [Email](mailto:nine19eenowo@gmail.com)
+Second-year computer science undergraduate, building practical products with AI coding tools and exploring AI applications and agent workflows. Competitive programming is my long-term foundation; I also founded and lead my university's algorithm training team.
+
+[Website](https://nine19een.com/) · [Writing](https://nine19een.com/writing/en/) · [Email](mailto:nine19eenowo@gmail.com)
 
 ## Selected work
 
 ### [CanvasCast](https://github.com/nine19een/CanvasCast)
 
-A browser-based whiteboard recorder for teaching and technical explanations. It combines an SVG whiteboard, slide-based presentations, and recording through the MediaRecorder API. Designed for desktop browsers.
+A whiteboard recorder for short lessons and technical explanations. Draw, arrange slides, and record a presentation with an optional camera overlay and teleprompter in a desktop browser.
 
-[Demo](https://canvascast.nine19een.com/)
+React · TypeScript · SVG · Browser media APIs  
+[Source](https://github.com/nine19een/CanvasCast) · [Try it](https://canvascast.nine19een.com/)
 
 ### [Arsenal Transfer Alert](https://github.com/nine19een/arsenal-transfer-alert)
 
-A self-hosted Python tool for filtering Arsenal transfer news, translating relevant updates, and sending phone notifications. It uses SQLite for persistent storage and deduplication, with budget controls for paid APIs.
+A self-hosted service that filters transfer developments from selected X sources, translates relevant updates, and delivers Bark notifications. SQLite persistence, deduplication and paid-API budget guards keep the operational boundaries explicit.
 
-More projects on [my website](https://nine19een.com/projects/).
+Python · SQLite · X API · DeepSeek · Bark  
+[Source and setup](https://github.com/nine19een/arsenal-transfer-alert)
+
+### Campus OJ
+
+A programming-course judging system, with problems, classes, assignments, exams and submission results described on the public project page. I began it in my second year, with concentrated development during the October 2026 National Day holiday.
+
+Private source · Formal deployment in progress · Authorized accounts only  
+[Project overview](https://nine19een.com/projects/)
 
 ## Selected writing
 
-*Articles in Chinese.*
+- [Agent Harness Lab Follow-up Experiment Retrospective](https://nine19een.com/writing/en/2026/10/09/agent-harness-round2-review/)
+- [I Built a Video-to-Handout Tool with Codex. It Quietly Left Out Half a Lecture.](https://nine19een.com/writing/en/2026/06/02/agent-workflow-validation/)
+- [AtCoder ABC457-E Review: Interval Unions, Structural Cases, and an Offline Fenwick Tree](https://nine19een.com/writing/en/2026/05/10/abc457-e-crossing-table-cloth-review/)
 
-- [Agent Harness Lab 复盘](https://nine19een.com/writing/2026/08/15/agent-harness-lab-review/) — A small code-repair experiment comparing one-shot generation and an agent loop, with notes on evaluation and failure modes.
-- [我用 Codex 做了一个视频转讲义工具，结果它悄悄漏掉了半节课](https://nine19een.com/writing/2026/06/02/agent-workflow-validation/) — Lessons on checking intermediate outputs and catching missing content in an AI-assisted handout workflow.
+## Algorithms and team
 
-## Algorithms & background
+My first year focused on competitive programming and building with AI coding tools. In my second year, I started the algorithm training team and organize its training alongside the Campus OJ work.
 
-I practice competitive programming in C++. In the 2026 Lanqiao Cup (C/C++, University Group B), I received a third prize at the national finals and a first prize in the Beijing division.
+In the 2026 Lanqiao Cup, **C/C++ Programming, University Group B**, I received a **third prize in the national finals** and a **first prize in the Beijing provincial round**.
 
-[Coding-Practice](https://github.com/nine19een/Coding-Practice) · [Practice history](https://github.com/nine19een/Coding-Practice/blob/main/docs/history/practice.md) · [Contest history](https://github.com/nine19een/Coding-Practice/blob/main/docs/history/contests.md)
+[C++ practice](https://github.com/nine19een/Coding-Practice) · [Practice history](https://github.com/nine19een/Coding-Practice/blob/main/docs/history/practice.md) · [Contest history](https://github.com/nine19een/Coding-Practice/blob/main/docs/history/contests.md) · [More projects](https://nine19een.com/projects/)
