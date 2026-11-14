@@ -1,0 +1,43 @@
+name: Import Neofetch profile bundle
+on:
+  push:
+    branches:
+      - feat/profile-readme-redesign
+    paths:
+      - ".staging/neofetch.zip.part*"
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feat/profile-readme-redesign
+
+      - name: Verify and extract bundle
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat .staging/neofetch.zip.part* > /tmp/neofetch.zip
+          unzip -t /tmp/neofetch.zip
+          mkdir -p /tmp/neofetch-bundle
+          unzip -q /tmp/neofetch.zip -d /tmp/neofetch-bundle
+          test -f /tmp/neofetch-bundle/nine19een-neofetch/README.md
+          cp -a /tmp/neofetch-bundle/nine19een-neofetch/. .
+          rm -rf .staging
+          rm -f .github/workflows/import-neofetch.yml
+
+      - name: Commit extracted files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "feat(profile): import neofetch README bundle"
+            git push origin HEAD:feat/profile-readme-redesign
+          fi
