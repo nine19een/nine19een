@@ -31,7 +31,6 @@ USER = "nine19een"
 # Each line is a list of (text, style). Styles: k key, t text, m muted, a accent.
 def card_text(s):
     K = lambda key, val: [(key + ":", "k"), (" " + val, "t")]
-    P = lambda name, val: [("  " + name + " ", "a"), ("." * (15 - len(name)) + " ", "m"), (val, "t")]
     return [
         [("nine19een", "a"), ("@", "m"), ("github", "a")],
         [("-" * 16, "m")],
@@ -41,16 +40,12 @@ def card_text(s):
         K("Shell", "Codex, Claude"),
         K("Kernel", "C++ / algorithms"),
         K("Focus", "AI coding, coding agents, LLM apps"),
-        K("Learning", "PyTorch, model training"),
         [],
-        [("Projects:", "k")],
-        P("campus-oj", "live, runs our team's exams"),
-        P("canvascast", f"open source, {s['canvascast']} stars"),
-        P("schedule", "live, ad-free timetable"),
-        P("agent-harness", "loop 67.5% vs one-shot 31.25%"),
+        K("Projects", "Building and shipping tools with AI coding"),
         [],
-        K("Writing", "20+ posts on agents and AI coding"),
-        K("Awards", "Lanqiao Cup national 3rd, Beijing 1st"),
+        K("Writing", "20+ posts on AI coding and experiments"),
+        K("Awards", "Lanqiao Cup: national finals 3rd prize,"),
+        [("        Beijing 1st prize", "t")],
         K("AFK", "football, piano, gym, badminton"),
         K("Contact", "nine19eenowo@gmail.com"),
         K("GitHub", f"{s['repos']} repos, {s['stars']} stars, {s['followers']} followers"),
@@ -244,9 +239,7 @@ def card(theme, narrow, stats):
     for j, col in enumerate(SWATCHES):
         body.append(f'<rect x="{ix + j * cw * 3:.1f}" y="{sy - FS + 4:.1f}" width="{cw * 3:.1f}" height="{LH - 4}" '
                     f'fill="{col}" stroke="{c["line"]}"/>')
-    ey = max(sy, ay + ah) + LH * 2                     # closing prompt
-    body.append(text(PAD, ey, [("~ ", "k"), ("$ ", "m")]))
-    body.append(f'<rect class="cur" x="{PAD + cw * 4:.1f}" y="{ey - FS + 3:.1f}" width="{cw:.1f}" height="{FS + 2}" fill="{c["cur"]}"/>')
+    ey = max(sy, ay + ah) + LH * 2                     # footer line; the session continues in the panels below
     body.append(f'<text x="{W - PAD:.1f}" y="{ey:.1f}" text-anchor="end" class="m s">updated {escape(stats["updated"])}</text>')
     H = ey + PAD
     body.insert(0, f'<rect x=".5" y=".5" width="{W - 1:.1f}" height="{H - 1:.1f}" rx="12" fill="{c["bg"]}" stroke="{c["line"]}"/>')
