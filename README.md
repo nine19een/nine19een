@@ -6,10 +6,8 @@
 </a>
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/card-dark-narrow.svg">
-  <source media="(max-width: 600px)" srcset="./assets/card-light-narrow.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark.svg">
-  <img alt="nine19een running neofetch. CS undergrad, class of 2029. Focus: AI coding, coding agents, LLM apps. Projects: Campus OJ, CanvasCast, Schedule, Agent Harness Lab." src="./assets/card-light.svg" width="100%">
+  <source media="(max-width: 600px)" srcset="./assets/card-dark-narrow.svg">
+  <img alt="nine19een running neofetch. CS undergrad, class of 2029. Focus: AI coding, coding agents, LLM apps. Projects: Campus OJ, CanvasCast, Schedule, Agent Harness Lab." src="./assets/card-dark.svg" width="100%">
 </picture>
 
 [Website](https://nine19een.com) · [Writing](https://nine19een.com/writing/en/) · [Email](mailto:nine19eenowo@gmail.com) · [Bilibili](https://space.bilibili.com/404289521)

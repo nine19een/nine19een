@@ -3,14 +3,14 @@
 
 Outputs (all in assets/):
   banner-{dark,light}.svg          the nine19een wordmark in characters
-  card-{dark,light}.svg            terminal card: avatar left, details right
-  card-{dark,light}-narrow.svg     same card stacked, for phones
+  card-dark.svg                  terminal card: avatar left, details right
+  card-dark-narrow.svg           same card stacked, for phones
 
 Inputs (all in scripts/):
   banner-19.txt, banner-letters.txt   the wordmark, two layers on one grid
-  avatar-dark.txt, avatar-light.txt   your ASCII avatar; dark = inverted export.
-                                      If one is missing, its card shows an
-                                      empty frame of the same size.
+  avatar-dark.svg                    original-color ASCII avatar; inverted export.
+  avatar-dark.txt                    fallback when the SVG is missing.
+                                      If both are missing, show an empty frame.
   CARD below                          the text on the right side of the card
   stats.json                          last known GitHub numbers
 
@@ -20,6 +20,7 @@ can't be reached, the numbers in stats.json are kept.
 Standard library only, so the GitHub Action needs no installs.
 """
 import base64, datetime, json, os, pathlib, urllib.request, zlib
+import xml.etree.ElementTree as ET
 from xml.sax.saxutils import escape
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -99,7 +100,7 @@ SWATCHES = ["#101015", "#1C1725", "#A6A2B0", "#EFEDF4", "#D6B8FF", "#B28AEF"]
 ADV = 0.6                  # IBM Plex Mono advance width, in em
 FS, LH = 16, 21            # card text
 PAD = 36
-AVATAR_SLOT = (124, 62)    # cols, rows of the empty frame when an avatar file is missing
+AVATAR_SLOT = (124, 62)    # avatar frame; same aspect as the existing TXT exports
 
 def font_css():
     css = ""
@@ -164,9 +165,40 @@ def banner(theme):
     return svg(W, H, "nine19een", style, grad("g19", x0, 0, x1, H, c["p0"], c["p1"]), body)
 
 # ------------------------------------------------------------------ card
+def read_avatar_svg(theme):
+    path = HERE / f"avatar-{theme}.svg"
+    if not path.exists():
+        return None
+    ns = "{http://www.w3.org/2000/svg}"
+    ET.register_namespace("", ns[1:-1])
+    art = ET.parse(path).getroot()
+    for parent in art.iter():
+        for child in list(parent):
+            if child.tag == ns + "rect" and child.get("fill", "").lower() == "#07120f":
+                parent.remove(child)
+
+    def preserve_styles(node, inherited):
+        attrs = dict(inherited)
+        for key in ("font-family", "font-size", "font-weight", "dominant-baseline", "fill"):
+            if key in node.attrib:
+                attrs[key] = node.get(key)
+        if node.tag in (ns + "text", ns + "tspan"):
+            # Inline styles beat the card's global text rules without changing them.
+            styles = dict(attrs)
+            size = styles.get("font-size", "")
+            if size.replace(".", "", 1).isdigit():
+                styles["font-size"] = size + "px"
+            node.set("style", ";".join(f"{k}:{v}" for k, v in styles.items()) + ";" + node.get("style", ""))
+        for child in node:
+            preserve_styles(child, attrs)
+
+    preserve_styles(art, {})
+    return art
+
 def card(theme, narrow, stats):
     c = THEMES[theme]
-    art = read_art(f"avatar-{theme}.txt")
+    avatar_svg = read_avatar_svg(theme)
+    art = None if avatar_svg is not None else read_art(f"avatar-{theme}.txt")
     a_cols, a_rows = (max(map(len, art)), len(art)) if art else AVATAR_SLOT
     info = card_text(stats)
     cw = FS * ADV
@@ -189,14 +221,19 @@ def card(theme, narrow, stats):
     alh = afs * 1.15
     aw, ah = a_cols * afs * ADV, a_rows * alh
 
-    if art:
+    if avatar_svg is not None:
+        for key, value in dict(x=ax, y=ay, width=aw, height=ah).items():
+            avatar_svg.set(key, f"{value:.1f}")
+        avatar_svg.set("preserveAspectRatio", "xMidYMid meet")
+        body.append(ET.tostring(avatar_svg, encoding="unicode"))
+    elif art:
         for i, row in enumerate(art):
             body.append(text(ax, ay + afs + i * alh, [(row, "v")], afs))
     else:
         body.append(f'<rect x="{ax:.1f}" y="{ay:.1f}" width="{aw:.1f}" height="{ah:.1f}" rx="8" fill="none" '
                     f'stroke="{c["slot"]}" stroke-dasharray="6 6"/>')
         body.append(f'<text x="{ax + aw / 2:.1f}" y="{ay + ah / 2:.1f}" text-anchor="middle" class="m s">'
-                    f'scripts/avatar-{theme}.txt</text>')
+                    f'scripts/avatar-{theme}.svg</text>')
         body.append(f'<text x="{ax + aw / 2:.1f}" y="{ay + ah / 2 + 18:.1f}" text-anchor="middle" class="m s">'
                     f'{a_cols} x {a_rows}</text>')
 
@@ -226,8 +263,10 @@ if __name__ == "__main__":
     out.mkdir(exist_ok=True)
     for theme in THEMES:
         (out / f"banner-{theme}.svg").write_text(banner(theme))
+        if theme != "dark":
+            continue
         for narrow in (False, True):
             (out / f"card-{theme}{'-narrow' if narrow else ''}.svg").write_text(card(theme, narrow, stats))
-        if not (HERE / f"avatar-{theme}.txt").exists():
-            print(f"note: scripts/avatar-{theme}.txt not found, card-{theme} shows an empty frame")
+        if not any((HERE / f"avatar-{theme}.{ext}").exists() for ext in ("svg", "txt")):
+            print(f"note: scripts/avatar-{theme}.svg/.txt not found, card-{theme} shows an empty frame")
     print("wrote", ", ".join(sorted(p.name for p in out.glob("*.svg"))))
